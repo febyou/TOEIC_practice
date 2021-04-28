@@ -1,0 +1,1000 @@
+﻿{"id": 0, "eng": "Let's try ___.", "jpn": "[とにかく]やってみよう。", "ans": "anyway", "flag": 0}
+{"id": 1, "eng": "___ the speech, we had dinner.", "jpn": "スピーチに[続いて]、夕食をとった。", "ans": "following", "flag": 0}
+{"id": 2, "eng": "Please ___ to the map.", "jpn": "地図を[参照して]ください。", "ans": "refer", "flag": 0}
+{"id": 3, "eng": "Tickets are ___ online.", "jpn": "チケットはオンラインで[入手可能]です。", "ans": "available", "flag": 1}
+{"id": 4, "eng": "the sales ___", "jpn": "営業[部]", "ans": "department", "flag": 0}
+{"id": 5, "eng": "a large ___ room", "jpn": "大きな[会議]室", "ans": "conference", "flag": 0}
+{"id": 6, "eng": "___ to the e-mail", "jpn": "メール[によると]", "ans": "according", "flag": 0}
+{"id": 7, "eng": "Who most ___ is the woman?", "jpn": "女性は[おそらく]誰ですか。", "ans": "likely", "flag": 0}
+{"id": 8, "eng": "What does the man ___ to do?", "jpn": "男性は何をすることを[申し出て]いますか。", "ans": "offer", "flag": 0}
+{"id": 9, "eng": "new office ___", "jpn": "新しいオフィス[機器]", "ans": "equipment", "flag": 0}
+{"id": 10, "eng": "Please ___ me with your e-mail address.", "jpn": "あなたのメールアドレスを[提供して]ください。", "ans": "provide", "flag": 1}
+{"id": 11, "eng": "___ buisinesses", "jpn": "[地元の]会社", "ans": "local", "flag": 0}
+{"id": 12, "eng": "___ tickets", "jpn": "チケットを[購入する]", "ans": "purchase", "flag": 0}
+{"id": 13, "eng": "a job ___", "jpn": "仕事の[空き]", "ans": "opening", "flag": 0}
+{"id": 14, "eng": "___ project", "jpn": "[建設]プロジェクト", "ans": "construction", "flag": 0}
+{"id": 15, "eng": "while ___ing the factory ...", "jpn": "工場を[見学]している間...。", "ans": "tour", "flag": 0}
+{"id": 16, "eng": "market ___", "jpn": "市場[調査]", "ans": "research", "flag": 0}
+{"id": 17, "eng": "___ a meeting", "jpn": "会議に[出席する]", "ans": "attend", "flag": 0}
+{"id": 18, "eng": "change a ___ date", "jpn": "[配達]日を変更する", "ans": "delivery", "flag": 0}
+{"id": 19, "eng": "I ___ bought a printer.", "jpn": "私は[最近]プリンターを買った。", "ans": "recently", "flag": 1}
+{"id": 20, "eng": "What is ___d about Mr. Kato?", "jpn": "加藤さんについて何が[示されて]いますか。", "ans": "indicate", "flag": 0}
+{"id": 21, "eng": "an ___ of a hotel", "jpn": "ホテルの[従業員]", "ans": "employee", "flag": 0}
+{"id": 22, "eng": "request ___ staff", "jpn": "[追加の]スタッフを要請する", "ans": "additional", "flag": 1}
+{"id": 23, "eng": "a customer ___", "jpn": "顧客[アンケート調査]", "ans": "survey", "flag": 0}
+{"id": 24, "eng": "___ a report", "jpn": "報告書に[目を通す]", "ans": "review", "flag": 0}
+{"id": 25, "eng": "the ___ area", "jpn": "[生産]エリア", "ans": "production", "flag": 0}
+{"id": 26, "eng": "conveniently ___ near a subway station", "jpn": "地下鉄の駅近くの便利な[場所にある]", "ans": "located", "flag": 0}
+{"id": 27, "eng": "___s of a plan", "jpn": "計画の[詳細]", "ans": "detail", "flag": 0}
+{"id": 28, "eng": "___ the winners", "jpn": "入賞者を[発表する]", "ans": "announce", "flag": 0}
+{"id": 29, "eng": "a computer ___ shop", "jpn": "コンピュータの[修理]店", "ans": "repair", "flag": 0}
+{"id": 30, "eng": "an ___ in sales", "jpn": "売り上げの[増加]", "ans": "increase", "flag": 0}
+{"id": 31, "eng": "What is NOT ___d in the form?", "jpn": "用紙に[含まれて]いないのは何ですか。", "ans": "include", "flag": 0}
+{"id": 32, "eng": "The item is___ out of stock.", "jpn": "その品は[現在]在庫切れです。", "ans": "currently", "flag": 0}
+{"id": 33, "eng": "an ___ campaign", "jpn": "[広告]キャンペーン。", "ans": "advertising", "flag": 0}
+{"id": 34, "eng": "We ___ $50 for the service.", "jpn": "そのサービスには５０ドルを[請求します]。", "ans": "charge", "flag": 0}
+{"id": 35, "eng": "Mr. Kato is ___ed to arrive tomorrow.", "jpn": "加藤さんは明日到着する[予定だ]。", "ans": "expect", "flag": 0}
+{"id": 36, "eng": "a family-owned ___", "jpn": "家族経営の[会社]。", "ans": "firm", "flag": 0}
+{"id": 37, "eng": "visit a ___", "jpn": "[顧客]を訪問する", "ans": "client", "flag": 0}
+{"id": 38, "eng": "___ support from the government", "jpn": "政府からの[お金の]支援", "ans": "financial", "flag": 0}
+{"id": 39, "eng": "an ___ report", "jpn": "[年次]報告書", "ans": "annual", "flag": 0}
+{"id": 40, "eng": "make an online ___", "jpn": "オンラインの[支払い]をする", "ans": "payment", "flag": 0}
+{"id": 41, "eng": "this year's ___", "jpn": "今年の[予算]。", "ans": "budget", "flag": 0}
+{"id": 42, "eng": "fill out an ___", "jpn": "[応募書類]に記入する", "ans": "application", "flag": 0}
+{"id": 43, "eng": "before signing a ___", "jpn": "[契約]に署名する前に", "ans": "contract", "flag": 0}
+{"id": 44, "eng": "a ___  seminar", "jpn": "[経営]セミナー", "ans": "management", "flag": 0}
+{"id": 45, "eng": "an employee's ___", "jpn": "従業員の[成績]", "ans": "performance", "flag": 0}
+{"id": 46, "eng": "We are ___ with the final result.", "jpn": "最終結果に[満足して]いる。", "ans": "pleased", "flag": 0}
+{"id": 47, "eng": "___ a payment", "jpn": "支払いを[確認する]", "ans": "confirm", "flag": 1}
+{"id": 48, "eng": "___s ceremony", "jpn": "[受賞]式", "ans": "award", "flag": 1}
+{"id": 49, "eng": "a ___ store", "jpn": "[衣料品]店", "ans": "clothing", "flag": 0}
+{"id": 50, "eng": "products on ___", "jpn": "[展示]されている製品", "ans": "display", "flag": 1}
+{"id": 51, "eng": "a successful ___", "jpn": "合格した[候補者]", "ans": "candidate", "flag": 0}
+{"id": 52, "eng": "What is ___d about the hotel?", "jpn": "ホテルについて何が[述べられて]いますか。", "ans": "state", "flag": 0}
+{"id": 53, "eng": "a museum ___", "jpn": "博物館の[展示物]", "ans": "exhibit", "flag": 0}
+{"id": 54, "eng": "a Q&A ___", "jpn": "質疑応答の[時間]", "ans": "session", "flag": 1}
+{"id": 55, "eng": "Please ___ that prices may change.", "jpn": "値段は変更になる場合があるので、[注意して]ください。", "ans": "note", "flag": 1}
+{"id": 56, "eng": "___ an order", "jpn": "注文を[処理する]", "ans": "process", "flag": 0}
+{"id": 57, "eng": "Please read all the ___ s.", "jpn": "[説明書]をすべてお読みください。", "ans": "instruction", "flag": 0}
+{"id": 58, "eng": "sign up for___", "jpn": "[会員]登録する", "ans": "membership", "flag": 0}
+{"id": 59, "eng": "a travel ___", "jpn": "旅行[代理店]", "ans": "agency", "flag": 0}
+{"id": 60, "eng": "a Seattle-___ company", "jpn": "シアトルに[拠点を置く]会社", "ans": "based", "flag": 0}
+{"id": 61, "eng": "a research ___", "jpn": "研究[施設]", "ans": "facility", "flag": 0}
+{"id": 62, "eng": "___ notice", "jpn": "[事前の]告知", "ans": "advance", "flag": 0}
+{"id": 63, "eng": "join a ___", "jpn": "[委員会]に入る", "ans": "committee", "flag": 0}
+{"id": 64, "eng": "The event was ___ .", "jpn": "そのイベントは[成功だった]。", "ans": "successful", "flag": 0}
+{"id": 65, "eng": "___ servise", "jpn": "[素晴らしい]サービス", "ans": "excellent", "flag": 0}
+{"id": 66, "eng": "the fashion ___", "jpn": "ファッション[業界]", "ans": "industry", "flag": 1}
+{"id": 67, "eng": "pay a late ___", "jpn": "延滞[料金]を払う", "ans": "fee", "flag": 0}
+{"id": 68, "eng": "___ an offer", "jpn": "オファーを[受け入れる]", "ans": "accept", "flag": 0}
+{"id": 69, "eng": "prepare for an ___ event", "jpn": "[今度の]イベントの準備をする", "ans": "upcoming", "flag": 1}
+{"id": 70, "eng": "Haruki Murakami's ___ novel", "jpn": "村上春樹の[最新の]小説", "ans": "latest", "flag": 0}
+{"id": 71, "eng": "___ a report", "jpn": "レポートを[提出する]", "ans": "submit", "flag": 0}
+{"id": 72, "eng": "use public ___", "jpn": "公共の[交通機関]を利用する", "ans": "transportation", "flag": 0}
+{"id": 73, "eng": "send a ___", "jpn": "[履歴書]を送る", "ans": "rēsumē", "flag": 0}
+{"id": 74, "eng": "a company ___", "jpn": "会社の[重役]", "ans": "executive", "flag": 0}
+{"id": 75, "eng": "___ a new line of products", "jpn": "新たな商品ラインを[導入する]", "ans": "introduce", "flag": 0}
+{"id": 76, "eng": "have no ___ experience", "jpn": "[以前の]経験がない", "ans": "previous", "flag": 0}
+{"id": 77, "eng": "review a ___", "jpn": "[提案]に目を通す", "ans": "proposal", "flag": 0}
+{"id": 78, "eng": "office ___s", "jpn": "オフィス[用品]", "ans": "supply", "flag": 0}
+{"id": 79, "eng": "My rēsumē is ___d.", "jpn": "履歴書を[同封いたします]。", "ans": "enclose", "flag": 0}
+{"id": 80, "eng": "returns ___", "jpn": "返品[規定]", "ans": "policy", "flag": 0}
+{"id": 81, "eng": "___ for employee training", "jpn": "社員研修に[登録する]", "ans": "register", "flag": 0}
+{"id": 82, "eng": "___ a meeting", "jpn": "会議の[手配をする]", "ans": "arrange", "flag": 0}
+{"id": 83, "eng": "receive a ___", "jpn": "[請求書]を受け取る", "ans": "bill", "flag": 0}
+{"id": 84, "eng": "___ an assistant", "jpn": "アシスタントを[雇う]", "ans": "hire", "flag": 0}
+{"id": 85, "eng": "___ a plan", "jpn": "計画を[承認する]", "ans": "approve", "flag": 0}
+{"id": 86, "eng": "___ a survey", "jpn": "アンケート調査を[行う]", "ans": "conduct", "flag": 1}
+{"id": 87, "eng": "an ___ to work with you", "jpn": "あなたとお仕事をする[機会]", "ans": "opportunity", "flag": 0}
+{"id": 88, "eng": "the ___ for the project", "jpn": "プロジェクトの[締め切り]", "ans": "deadline", "flag": 0}
+{"id": 89, "eng": "a ___ trainer", "jpn": "[企業の]トレーナー", "ans": "corporate", "flag": 0}
+{"id": 90, "eng": "a three-year ___", "jpn": "３年[保証]", "ans": "warranty", "flag": 0}
+{"id": 91, "eng": "___ forms", "jpn": "[必要な]用紙", "ans": "necessary", "flag": 0}
+{"id": 92, "eng": "___ a room at a hotel", "jpn": "ホテルの部屋を[予約する]", "ans": "reserve", "flag": 0}
+{"id": 93, "eng": "local ___s", "jpn": "地元の[先住民]", "ans": "resident", "flag": 0}
+{"id": 94, "eng": "___ a new logo", "jpn": "新しいロゴを[作り出す]", "ans": "create", "flag": 0}
+{"id": 95, "eng": "We are happy to ___ you thet ...", "jpn": "...を[知らせる]ことができて嬉しい。", "ans": "inform", "flag": 0}
+{"id": 96, "eng": "___ customers to pay online", "jpn": "顧客がオンラインで支払うことを[可能にする]", "ans": "allow", "flag": 1}
+{"id": 97, "eng": "What problem does the man ___?", "jpn": "男性はどんな問題について[述べて]いますか。", "ans": "mention", "flag": 0}
+{"id": 98, "eng": "I really ___ your help.", "jpn": "助けて頂いて本当に[感謝しています]。", "ans": "appreciate", "flag": 0}
+{"id": 99, "eng": "___ parts", "jpn": "[交換]部品", "ans": "replacement", "flag": 0}
+{"id": 100, "eng": "traffic ___s", "jpn": "交通の[最新情報]", "ans": "update", "flag": 0}
+{"id": 101, "eng": "open a new ___", "jpn": "新しい[支店]をオープンする", "ans": "branch", "flag": 0}
+{"id": 102, "eng": "___ leave", "jpn": "[有給]休暇", "ans": "paid", "flag": 0}
+{"id": 103, "eng": "___, there are some problems.", "jpn": "[残念なことに]、いくつか問題があります。", "ans": "unfortunately", "flag": 0}
+{"id": 104, "eng": "in ___ condition", "jpn": "[元の]状態で", "ans": "original", "flag": 0}
+{"id": 105, "eng": "a ___ increase", "jpn": "[家賃]の値上げ", "ans": "rent", "flag": 0}
+{"id": 106, "eng": "write a ___", "jpn": "[社内文書]を書く", "ans": "memo", "flag": 0}
+{"id": 107, "eng": "shop for ___", "jpn": "[旅行カバン]を買い求める", "ans": "luggage", "flag": 0}
+{"id": 108, "eng": "a newspaper ___", "jpn": "新聞の[編集者]", "ans": "editor", "flag": 0}
+{"id": 109, "eng": "an art ___", "jpn": "美術[展]", "ans": "exhibition", "flag": 0}
+{"id": 110, "eng": "a ___ company", "jpn": "[トップの]会社", "ans": "leading", "flag": 0}
+{"id": 111, "eng": "lead an ___", "jpn": "[組織]を率いる", "ans": "organization", "flag": 0}
+{"id": 112, "eng": "___ a new album", "jpn": "ニューアルバムを[発売する]", "ans": "release", "flag": 0}
+{"id": 113, "eng": "for a ___ time", "jpn": "期間[限定]で", "ans": "limited", "flag": 0}
+{"id": 114, "eng": "a normal ___", "jpn": "通常の[手続き]", "ans": "procedure", "flag": 0}
+{"id": 115, "eng": "an ___ engineer", "jpn": "[経験豊かな]エンジニア", "ans": "experienced", "flag": 0}
+{"id": 116, "eng": "all company ___", "jpn": "全[社員]", "ans": "personnel", "flag": 1}
+{"id": 117, "eng": "the ___ of a popular book", "jpn": "人気本の[著者]", "ans": "author", "flag": 0}
+{"id": 118, "eng": "employee ___s", "jpn": "従業員の[福利厚生]", "ans": "benefit", "flag": 0}
+{"id": 119, "eng": "___ on one point", "jpn": "１点に[集中する]", "ans": "focus", "flag": 0}
+{"id": 120, "eng": "___ in the workshop", "jpn": "セミナーに[参加する]", "ans": "participate", "flag": 0}
+{"id": 121, "eng": "the ___ of the problem", "jpn": "問題の[原因]", "ans": "cause", "flag": 0}
+{"id": 122, "eng": "a ___ in journalism", "jpn": "ジャーナリズムの[学位]", "ans": "degree", "flag": 0}
+{"id": 123, "eng": "purchase ___ from a Web site", "jpn": "ウェブサイトから[直接]購入する", "ans": "directly", "flag": 0}
+{"id": 124, "eng": "the ___ of a television show", "jpn": "テレビ番組の[司会者]", "ans": "host", "flag": 0}
+{"id": 125, "eng": "an ___ in the field", "jpn": "その分野の[専門家]", "ans": "expert", "flag": 0}
+{"id": 126, "eng": "We were ___ed by your knowledge.", "jpn": "我々はあなたの知識に[感心した]。", "ans": "impress", "flag": 0}
+{"id": 127, "eng": "work ___ in the steel industry", "jpn": "[主に]鉄鋼業界で働く", "ans": "mainly", "flag": 0}
+{"id": 128, "eng": "make ___s", "jpn": "[提案]を行う", "ans": "suggestion", "flag": 0}
+{"id": 129, "eng": "relationships with ___s", "jpn": "[納入業者]を行う", "ans": "supplier", "flag": 0}
+{"id": 130, "eng": "an important ___", "jpn": "重要な[書類]", "ans": "document", "flag": 0}
+{"id": 131, "eng": "___ employees about the policy", "jpn": "従業員に規則に関して[再確認する]", "ans": "remind", "flag": 0}
+{"id": 132, "eng": "Workers are ___d to wear uniforms.", "jpn": "作業員は制服の着用を[求められます]。", "ans": "require", "flag": 0}
+{"id": 133, "eng": "a sales ___", "jpn": "営業[担当者]", "ans": "representative", "flag": 0}
+{"id": 134, "eng": "the ___ area", "jpn": "[梱包]エリア", "ans": "packaging", "flag": 0}
+{"id": 135, "eng": "a job ___", "jpn": "職務内容の[説明]", "ans": "description", "flag": 0}
+{"id": 136, "eng": "a ___ manager", "jpn": "[不動産]の管理人", "ans": "property", "flag": 1}
+{"id": 137, "eng": "Call me at___ 4649.", "jpn": "[内線]４６４９にお電話ください。", "ans": "extension", "flag": 1}
+{"id": 138, "eng": "___ about a job", "jpn": "仕事について[問い合わせる]", "ans": "inquire", "flag": 1}
+{"id": 139, "eng": "display ___", "jpn": "[商品]を陳列する", "ans": "merchandise", "flag": 0}
+{"id": 140, "eng": "a ___ successful business", "jpn": "[非常に]成功しているビジネス", "ans": "highly", "flag": 0}
+{"id": 141, "eng": "The campaign ___ed in success.", "jpn": "そのキャンペーンは成功という[結果になった]。", "ans": "result", "flag": 0}
+{"id": 142, "eng": "Thank you for your___.", "jpn": "ご[支援]ありがとうございます。", "ans": "assistance", "flag": 0}
+{"id": 143, "eng": "Employees are ___d to attend the event.", "jpn": "従業員がイベントに参加することを[推奨します]。", "ans": "encourage", "flag": 0}
+{"id": 144, "eng": "each ___ in the company", "jpn": "会社の一人一人の[個人]", "ans": "individual", "flag": 1}
+{"id": 145, "eng": "whin entering the ___", "jpn": "[研究所]に入るとき", "ans": "laboratory", "flag": 0}
+{"id": 146, "eng": "___ working in Japan", "jpn": "日本での勤務を[検討する]", "ans": "consider", "flag": 0}
+{"id": 147, "eng": "move the ___ to Boston", "jpn": "[本社]をボストンに移転する", "ans": "headquarters", "flag": 0}
+{"id": 148, "eng": "We are ready to ___ your order.", "jpn": "注文を[出荷する]準備ができました。", "ans": "ship", "flag": 0}
+{"id": 149, "eng": "___ buildings", "jpn": "[商業]ビル", "ans": "commercial", "flag": 0}
+{"id": 150, "eng": "a medical ___", "jpn": "医療[機器]", "ans": "device", "flag": 0}
+{"id": 151, "eng": "For whom is the notice ___?", "jpn": "このお知らせは誰に[向けられて]いますか。", "ans": "intended", "flag": 0}
+{"id": 152, "eng": "a product ___", "jpn": "製品[パンフレット]", "ans": "brochure", "flag": 0}
+{"id": 153, "eng": "by express ___", "jpn": "速達[郵便]で", "ans": "mail", "flag": 0}
+{"id": 154, "eng": "I ___ to work part-time.", "jpn": "私はパートタイムで働く方が[好きです]。", "ans": "prefer", "flag": 0}
+{"id": 155, "eng": "I'm writing in ___ to your letter.", "jpn": "お手紙へのご[返事]です。", "ans": "response", "flag": 0}
+{"id": 156, "eng": "companies in the ___", "jpn": "その[地域]の会社", "ans": "region", "flag": 0}
+{"id": 157, "eng": "___s to a museum", "jpn": "ミュージアムへの[寄付]", "ans": "donation", "flag": 0}
+{"id": 158, "eng": "the third ___", "jpn": "第３[四半期]", "ans": "quarter", "flag": 0}
+{"id": 159, "eng": "a rental ___", "jpn": "賃貸[契約書]", "ans": "agreement", "flag": 0}
+{"id": 160, "eng": "a scientific ___", "jpn": "科学の[専門誌]", "ans": "journal", "flag": 1}
+{"id": 161, "eng": "___ a document", "jpn": "書類を[配布する]", "ans": "distribute", "flag": 0}
+{"id": 162, "eng": "___ customers", "jpn": "[見込み]客", "ans": "potential", "flag": 0}
+{"id": 163, "eng": "___ a contract", "jpn": "契約を[更新する]", "ans": "renew", "flag": 0}
+{"id": 164, "eng": "ship from a ___", "jpn": "[倉庫]から出荷する", "ans": "warehouse", "flag": 0}
+{"id": 165, "eng": "___ an appointment", "jpn": "アポを[予定変更する]", "ans": "reschedule", "flag": 0}
+{"id": 166, "eng": "a full ___", "jpn": "全額[返金]", "ans": "refund", "flag": 0}
+{"id": 167, "eng": "What are listeners ___d to do?", "jpn": "聞き手は何をするよう[勧め]られていますか。", "ans": "advise", "flag": 0}
+{"id": 168, "eng": "The tickets sold out ___.", "jpn": "チケットは[即]売り切れた。", "ans": "immediately", "flag": 0}
+{"id": 169, "eng": "the city ___", "jpn": "市[議会]", "ans": "council", "flag": 0}
+{"id": 170, "eng": "The program is usually ___ on Saturdays.", "jpn": "その番組は通称土曜日に[放送される]。", "ans": "broadcast", "flag": 0}
+{"id": 171, "eng": "I am ___ for training employees.", "jpn": "私は従業員の研修を[担当して]いる。", "ans": "responsible", "flag": 1}
+{"id": 172, "eng": "___ wasting time", "jpn": "時間の無駄遣いを[避ける]", "ans": "avoid", "flag": 0}
+{"id": 173, "eng": "___ advertising campaigns", "jpn": "[効果的な]広告キャンペーン", "ans": "effective", "flag": 0}
+{"id": 174, "eng": "receive an ___", "jpn": "[招待状]を受け取る", "ans": "invitation", "flag": 0}
+{"id": 175, "eng": "___ prices", "jpn": "値段を[下げる]", "ans": "reduce", "flag": 0}
+{"id": 176, "eng": "park a ___", "jpn": "[乗り物]を駐車する", "ans": "vehicle", "flag": 0}
+{"id": 177, "eng": "___ use of energy", "jpn": "エネルギーの[効率的な]使用", "ans": "efficient", "flag": 1}
+{"id": 178, "eng": "a car ___", "jpn": "自動車[メーカー]", "ans": "manufacturer", "flag": 0}
+{"id": 179, "eng": "___ rooms and friendly staff", "jpn": "[快適な]部屋とフレンドリーなスタッフ", "ans": "comfortable", "flag": 0}
+{"id": 180, "eng": "the ___ address", "jpn": "[正しい]住所", "ans": "correct", "flag": 0}
+{"id": 181, "eng": "___ restaurants", "jpn": "[中心街の]レストラン", "ans": "downtown", "flag": 0}
+{"id": 182, "eng": "the ___ of payment", "jpn": "支払い[方法]", "ans": "method", "flag": 0}
+{"id": 183, "eng": "a wide ___ of services", "jpn": "広[範囲]のサービス", "ans": "range", "flag": 0}
+{"id": 184, "eng": "a hotel in a bautiful___", "jpn": "美しい[環境]にあるホテル", "ans": "setting", "flag": 0}
+{"id": 185, "eng": "We ___ for the inconvenience.", "jpn": "ご不便をおかけしますことを[お詫びします]。", "ans": "apologize", "flag": 0}
+{"id": 186, "eng": "___ use of the Internet", "jpn": "インターネットの[頻繁な]使用", "ans": "frequent", "flag": 0}
+{"id": 187, "eng": "Tex's ___ to sales manager", "jpn": "テックスの営業マネージャーへの[昇進]", "ans": "promotion", "flag": 1}
+{"id": 188, "eng": "___ your order", "jpn": "あなたのご注文[に関して]", "ans": "regarding", "flag": 0}
+{"id": 189, "eng": "the ___ staff", "jpn": "[全]スタッフ", "ans": "entire", "flag": 0}
+{"id": 190, "eng": "___ workers", "jpn": "[臨時]雇いの従業員", "ans": "temporary", "flag": 0}
+{"id": 191, "eng": "___ Italian dishes", "jpn": "[伝統的な]イタリア料理", "ans": "traditional", "flag": 0}
+{"id": 192, "eng": "___ is free for all members.", "jpn": "メンバーは[入場]無料です。", "ans": "admission", "flag": 0}
+{"id": 193, "eng": "The room can ___ 50 people.", "jpn": "その部屋には５０人が[入る]。", "ans": "fit", "flag": 1}
+{"id": 194, "eng": "contact a ___", "jpn": "[照会先]に連絡を取る", "ans": "reference", "flag": 0}
+{"id": 195, "eng": "shipment ___", "jpn": "配送[状況]", "ans": "status", "flag": 1}
+{"id": 196, "eng": "___ two years", "jpn": "２年[近く]", "ans": "nearly", "flag": 0}
+{"id": 197, "eng": "meet in the ___ for lunch", "jpn": "昼食のために[社員食堂]に集まる", "ans": "cafeteria", "flag": 0}
+{"id": 198, "eng": "___ how to sell the product", "jpn": "製品の売り方を[決定する]", "ans": "determine", "flag": 0}
+{"id": 199, "eng": "___ costs", "jpn": "[燃料]のコスト", "ans": "fuel", "flag": 0}
+{"id": 200, "eng": "travel ___s", "jpn": "出張[経費]", "ans": "expense", "flag": 0}
+{"id": 201, "eng": "___ markets", "jpn": "[海外]市場", "ans": "overseas", "flag": 0}
+{"id": 202, "eng": "I am fully ___ with the service.", "jpn": "私はサービスに完全に[満足しています]。", "ans": "satisfied", "flag": 0}
+{"id": 203, "eng": "Where would the article most likely ___?", "jpn": "この記事がもっとも[掲載され]そうなのはどこですか。", "ans": "appear", "flag": 1}
+{"id": 204, "eng": "___ a plan", "jpn": "計画を[作り出す]", "ans": "develop", "flag": 0}
+{"id": 205, "eng": "___ customer service", "jpn": "顧客サービスを[改善する]", "ans": "improve", "flag": 0}
+{"id": 206, "eng": "a ___ price", "jpn": "[手ごろな]値段", "ans": "reasonable", "flag": 1}
+{"id": 207, "eng": "What is the man ___ to do?", "jpn": "男性が[できない]ことは何ですか。", "ans": "unable", "flag": 0}
+{"id": 208, "eng": "All flights have been ___ed.", "jpn": "全ての便が[遅れて]います。", "ans": "delay", "flag": 0}
+{"id": 209, "eng": "___ advice", "jpn": "[法律に関する]アドバイス", "ans": "legal", "flag": 0}
+{"id": 210, "eng": "under the ___s", "jpn": "[規則]の下で", "ans": "regulation", "flag": 0}
+{"id": 211, "eng": "Our business is ___ing.", "jpn": "当社の事業は[拡大しています]。", "ans": "expand", "flag": 0}
+{"id": 212, "eng": "the ___ of a new product", "jpn": "新商品の[発売]", "ans": "launch", "flag": 0}
+{"id": 213, "eng": "Please ___ any questions to me.", "jpn": "質問は私[の方にして]ください。", "ans": "direct", "flag": 0}
+{"id": 214, "eng": "increase ___s", "jpn": "[利益]を増やす", "ans": "profit", "flag": 0}
+{"id": 215, "eng": "___ interns for the summer", "jpn": "夏期研修生を[募集する]", "ans": "seek", "flag": 0}
+{"id": 216, "eng": "the winning ___", "jpn": "入賞した[エントリー作品]", "ans": "entry", "flag": 0}
+{"id": 217, "eng": "file a ___", "jpn": "[申し立て]を行う", "ans": "claim", "flag": 0}
+{"id": 218, "eng": "a repair ___", "jpn": "修理[班]", "ans": "crew", "flag": 0}
+{"id": 219, "eng": "a letter of ___", "jpn": "[推薦]状", "ans": "recommendation", "flag": 0}
+{"id": 220, "eng": "meet ___", "jpn": "[需要]を満たす", "ans": "demand", "flag": 0}
+{"id": 221, "eng": "sales ___s", "jpn": "売り上げ[数字]", "ans": "figure", "flag": 0}
+{"id": 222, "eng": "___ money for charity", "jpn": "慈善のためにお金を[集める]", "ans": "raise", "flag": 0}
+{"id": 223, "eng": "I have ___ed my rēsumē.", "jpn": "履歴書を[添付しました]。", "ans": "attach", "flag": 0}
+{"id": 224, "eng": "a way of ___ing customers", "jpn": "お客様を[引き付ける]方法", "ans": "attract", "flag": 0}
+{"id": 225, "eng": "provide health ___ for emplyees", "jpn": "社員に健康[保険]を提供する", "ans": "insurance", "flag": 1}
+{"id": 226, "eng": "the scheduled ___ date", "jpn": "[出発]予定日", "ans": "departure", "flag": 0}
+{"id": 227, "eng": "the ___ of Tex Town", "jpn": "テックス・タウンの[町長]", "ans": "mayor", "flag": 0}
+{"id": 228, "eng": "an account ___", "jpn": "口座[残高]", "ans": "balance", "flag": 0}
+{"id": 229, "eng": "an ___ for the project", "jpn": "プロジェクトの[見積もり]", "ans": "estimate", "flag": 0}
+{"id": 230, "eng": "a commercial ___", "jpn": "商業[地区]", "ans": "district", "flag": 0}
+{"id": 231, "eng": "a ___ emplyee", "jpn": "[かつての]社員", "ans": "former", "flag": 0}
+{"id": 232, "eng": "design a ___ building", "jpn": "[近代的な]建物を設計する", "ans": "modern", "flag": 0}
+{"id": 233, "eng": "___s on packing", "jpn": "荷造りの[コツ]", "ans": "tip", "flag": 0}
+{"id": 234, "eng": "___ a business", "jpn": "会社を[設立する]", "ans": "establish", "flag": 1}
+{"id": 235, "eng": "an ___ to change the date", "jpn": "日付を変更する[選択肢]", "ans": "option", "flag": 0}
+{"id": 236, "eng": "___ after 20 years of service", "jpn": "２０年の勤務の後、[退職する]", "ans": "retire", "flag": 0}
+{"id": 237, "eng": "the ___ for the next president", "jpn": "次の社長[探し]", "ans": "search", "flag": 1}
+{"id": 238, "eng": "a ___ example", "jpn": "[具体的な]例", "ans": "specific", "flag": 0}
+{"id": 239, "eng": "___ technology", "jpn": "[農業の]技術", "ans": "agricultural", "flag": 0}
+{"id": 240, "eng": "___ figures", "jpn": "[歴史上の]人物", "ans": "historical", "flag": 0}
+{"id": 241, "eng": "I hope you find this information ___.", "jpn": "この情報があなたの[役に立つ]ことを願っています。", "ans": "helpful", "flag": 0}
+{"id": 242, "eng": "___s about the noise", "jpn": "騒音についての[苦情]", "ans": "complaint", "flag": 0}
+{"id": 243, "eng": "experience in a ___ field", "jpn": "[関連]分野での経験", "ans": "related", "flag": 0}
+{"id": 244, "eng": "___ fill out the form below.", "jpn": "[単純に]以下の用紙にご記入ください。", "ans": "simply", "flag": 0}
+{"id": 245, "eng": "offer a ___ opportunity", "jpn": "[他に類を見ない]機会を提供する", "ans": "unique", "flag": 0}
+{"id": 246, "eng": "any questions ___ the order", "jpn": "注文[に関する]質問", "ans": "concerning", "flag": 0}
+{"id": 247, "eng": "a well-deserved ___", "jpn": "確固たる[評判]", "ans": "reputation", "flag": 0}
+{"id": 248, "eng": "___ to speak three languages", "jpn": "３ヶ国語を話す[能力]", "ans": "ability", "flag": 0}
+{"id": 249, "eng": "the time of ___", "jpn": "[到着]時刻", "ans": "arrival", "flag": 0}
+{"id": 250, "eng": "I am ___ with the area.", "jpn": "私はその地域を[よく知っています]。", "ans": "familiar", "flag": 1}
+{"id": 251, "eng": "an ___ location", "jpn": "[理想的な]立地", "ans": "ideal", "flag": 0}
+{"id": 252, "eng": "___ a Web site", "jpn": "ウェブサイトを[維持管理する]", "ans": "maintain", "flag": 0}
+{"id": 253, "eng": "a ___ company", "jpn": "[造園]会社", "ans": "landscaping", "flag": 1}
+{"id": 254, "eng": "___ an event", "jpn": "イベントを[取りまとめる]", "ans": "organize", "flag": 0}
+{"id": 255, "eng": "a ___ increase in profits", "jpn": "[かなりの]利益増", "ans": "significant", "flag": 1}
+{"id": 256, "eng": "a special ___", "jpn": "特別な[行事]", "ans": "occasion", "flag": 0}
+{"id": 257, "eng": "safety ___s", "jpn": "安全[基準]", "ans": "standard", "flag": 1}
+{"id": 258, "eng": "an impressive educational ___", "jpn": "優れた学[歴]", "ans": "background", "flag": 0}
+{"id": 259, "eng": "a ___ tour", "jpn": "[ガイド付きの]ツアー", "ans": "guided", "flag": 0}
+{"id": 260, "eng": "___ technology", "jpn": "[先端（進んだ）]技術", "ans": "advanced", "flag": 0}
+{"id": 261, "eng": "an ___ date", "jpn": "[代わりの]日", "ans": "alternative", "flag": 0}
+{"id": 262, "eng": "I'm ___ that I can do it.", "jpn": "私にはそれができる[自信があります]。", "ans": "confident", "flag": 0}
+{"id": 263, "eng": "over the past two ___s", "jpn": "過去２[０年間]に渡って", "ans": "decade", "flag": 0}
+{"id": 264, "eng": "attend the ___ training session", "jpn": "[最初の]研修に参加する", "ans": "initial", "flag": 0}
+{"id": 265, "eng": "My order arrived in two ___ shipments.", "jpn": "私の注文は２回の[別々の]配送で届いた。", "ans": "separate", "flag": 0}
+{"id": 266, "eng": "the grand opening ___", "jpn": "グランドオープンの[お祝い]", "ans": "celebration", "flag": 0}
+{"id": 267, "eng": "express ___", "jpn": "[懸念]を示す", "ans": "concern", "flag": 1}
+{"id": 268, "eng": "work ___", "jpn": "職場[環境]", "ans": "environment", "flag": 0}
+{"id": 269, "eng": "___ a machine safely", "jpn": "機会を安全に[操作する]", "ans": "operate", "flag": 0}
+{"id": 270, "eng": "___ designs and patterns", "jpn": "[さまざまな]でざいんや柄", "ans": "various", "flag": 0}
+{"id": 271, "eng": "a ___ report", "jpn": "[短い]報告書", "ans": "brief", "flag": 0}
+{"id": 272, "eng": "___ employees", "jpn": "[常勤の]社員", "ans": "full-time", "flag": 0}
+{"id": 273, "eng": "the ___ budget", "jpn": "[全体の]予算", "ans": "overall", "flag": 1}
+{"id": 274, "eng": "___ a sales target", "jpn": "販売目標を[達成する]", "ans": "achieve", "flag": 0}
+{"id": 275, "eng": "pay on a monthly ___", "jpn": "月[単位]で支払う", "ans": "basis", "flag": 0}
+{"id": 276, "eng": "a sports ___", "jpn": "スポーツの[複合施設]", "ans": "complex", "flag": 0}
+{"id": 277, "eng": "We are ___ to see you.", "jpn": "お会いできて[とても嬉しい]です。", "ans": "delighted", "flag": 0}
+{"id": 278, "eng": "___ information from the Internet", "jpn": "インターネットから情報を[得る]", "ans": "obtain", "flag": 0}
+{"id": 279, "eng": "___ an employee", "jpn": "社員を[称える]", "ans": "honor", "flag": 0}
+{"id": 280, "eng": "___ trained staff", "jpn": "[きちんと]訓練されたスタッフ", "ans": "properly", "flag": 0}
+{"id": 281, "eng": "___ for outdoor use", "jpn": "アウトドア用に[適した]", "ans": "suitable", "flag": 0}
+{"id": 282, "eng": "personal ___ devices", "jpn": "個人用の[電子]機器", "ans": "electronic", "flag": 0}
+{"id": 283, "eng": "___ a contract", "jpn": "契約を[取りまとめる]", "ans": "finalize", "flag": 0}
+{"id": 284, "eng": "a ___ donation to a charity", "jpn": "慈善団体への[寛大な]寄付", "ans": "generous", "flag": 0}
+{"id": 285, "eng": "in ___ for an event", "jpn": "イベントの[準備]のため", "ans": "preparation", "flag": 0}
+{"id": 286, "eng": "main ___s of a teacher", "jpn": "教師の主な[任務]", "ans": "duty", "flag": 0}
+{"id": 287, "eng": "___ the respect of people", "jpn": "人々の尊敬を[得る]", "ans": "earn", "flag": 0}
+{"id": 288, "eng": "I am ___ to work overseas.", "jpn": "私は海外で働く[意思がある]。", "ans": "willing", "flag": 0}
+{"id": 289, "eng": "The book is ___ reading.", "jpn": "その本は読む[価値]がある。", "ans": "worth", "flag": 0}
+{"id": 290, "eng": "a project ___ed by the government", "jpn": "政府に[資金提供されて]いるプロジェクト", "ans": "fund", "flag": 0}
+{"id": 291, "eng": "free ___ delivery", "jpn": "無料の[翌日配送]", "ans": "overnight", "flag": 0}
+{"id": 292, "eng": "___ interested in history", "jpn": "歴史に[特に]興味がある", "ans": "particularly", "flag": 0}
+{"id": 293, "eng": "every ___ of a project", "jpn": "プロジェクトの全ての[面]", "ans": "aspect", "flag": 0}
+{"id": 294, "eng": "Please do not ___ to contact us.", "jpn": "[遠慮する]ことなくご連絡ください。", "ans": "hesitate", "flag": 0}
+{"id": 295, "eng": "I was not ___ with the project.", "jpn": "私はそのプロジェクトに[関わって]いなかった。", "ans": "involved", "flag": 1}
+{"id": 296, "eng": "a ___ updated list", "jpn": "[定期的に]更新されるリスト", "ans": "regularly", "flag": 0}
+{"id": 297, "eng": "apply for a ___", "jpn": "[奨学金]を申請する", "ans": "scholarship", "flag": 0}
+{"id": 298, "eng": "The meeting will begin ___.", "jpn": "会議は[じきに]始まります。", "ans": "shortly", "flag": 0}
+{"id": 299, "eng": "___ manufacturing", "jpn": "[自動車]製造", "ans": "automobile", "flag": 0}
+{"id": 300, "eng": "a security ___", "jpn": "安全[保証金]", "ans": "deposit", "flag": 0}
+{"id": 301, "eng": "The book ___s useful information.", "jpn": "その本には役立つ情報が[含まれている]。", "ans": "contain", "flag": 0}
+{"id": 302, "eng": "the ___s of the book", "jpn": "その本の[内容]", "ans": "content", "flag": 0}
+{"id": 303, "eng": "___ of purchase", "jpn": "購入の[証明]", "ans": "proof", "flag": 1}
+{"id": 304, "eng": "___ the price", "jpn": "値段に[影響する]", "ans": "effect", "flag": 1}
+{"id": 305, "eng": "Our products are ___d for their quality.", "jpn": "当社の製品は品質の高さで[認められています]。", "ans": "recognize", "flag": 0}
+{"id": 306, "eng": "___ a company", "jpn": "会社の[代表を務める]", "ans": "represent", "flag": 0}
+{"id": 307, "eng": "Tex was ___red to Alaska.", "jpn": "テックスはアラスカに[転勤になった]。", "ans": "transfer", "flag": 0}
+{"id": 308, "eng": "celebrate the twentieth ___", "jpn": "２０[周年]を祝う", "ans": "anniversary", "flag": 0}
+{"id": 309, "eng": "The machine will ___ shut down.", "jpn": "その機械は[自動的に]電源が切れます。", "ans": "automatically", "flag": 1}
+{"id": 310, "eng": "production ___", "jpn": "生産[能力]", "ans": "capacity", "flag": 0}
+{"id": 311, "eng": "travel ___s", "jpn": "旅行の[目的地]", "ans": "destination", "flag": 0}
+{"id": 312, "eng": "obtain a ___", "jpn": "[補助金]を得る", "ans": "grant", "flag": 1}
+{"id": 313, "eng": "___ a magazine", "jpn": "雑誌を[出版する]", "ans": "publish", "flag": 0}
+{"id": 314, "eng": "The book is ___d by a CD.", "jpn": "その本にはCDが[付いてきます]", "ans": "acconmpany", "flag": 0}
+{"id": 315, "eng": "___ growth", "jpn": "[経済]成長", "ans": "economic", "flag": 0}
+{"id": 316, "eng": "check ___ carefully", "jpn": "[非常に]丁寧にチェックする", "ans": "extremely", "flag": 0}
+{"id": 317, "eng": "a financial ___", "jpn": "金融[機関]", "ans": "institution", "flag": 0}
+{"id": 318, "eng": "___ sales figures", "jpn": "[正確な]売り上げの数字", "ans": "accrate", "flag": 1}
+{"id": 319, "eng": "___ with large companies", "jpn": "大会社と[競う]", "ans": "compete", "flag": 0}
+{"id": 320, "eng": "___ a point", "jpn": "ポイントを[強調する]", "ans": "emphasize", "flag": 0}
+{"id": 321, "eng": "I was ___ of the problem.", "jpn": "私は問題に[気付いていた]。", "ans": "aware", "flag": 0}
+{"id": 322, "eng": "The team was ___d by the CEO.", "jpn": "そのチームはCEOに[褒められた]。", "ans": "praise", "flag": 0}
+{"id": 323, "eng": "The town is ___ with tourists.", "jpn": "町は旅行客で[混雑している]。", "ans": "crowded", "flag": 0}
+{"id": 324, "eng": "a ___ addition to the team", "jpn": "チームの[貴重な]新戦力", "ans": "valuable", "flag": 1}
+{"id": 325, "eng": "___ the possibility", "jpn": "可能性を[探る]", "ans": "explore", "flag": 0}
+{"id": 326, "eng": "basic ___s", "jpn": "基本[機能]", "ans": "function", "flag": 0}
+{"id": 327, "eng": "___ a company", "jpn": "会社を[設立する]", "ans": "found", "flag": 0}
+{"id": 328, "eng": "have a negative ___ on the environment", "jpn": "環境にネガティブな[影響]を及ぼす", "ans": "impact", "flag": 0}
+{"id": 329, "eng": "an ___ success", "jpn": "[驚くべき]成功", "ans": "amazing", "flag": 0}
+{"id": 330, "eng": "___ Tex that he will be promouted", "jpn": "テックスに彼が昇進することを[保証する]", "ans": "assure", "flag": 0}
+{"id": 331, "eng": "Thank you for your ___.", "jpn": "ご[協力]ありがとうございます。", "ans": "cooperation", "flag": 0}
+{"id": 332, "eng": "a rise in ___", "jpn": "[人気]の上昇", "ans": "popularity", "flag": 0}
+{"id": 333, "eng": "a construction ___", "jpn": "建設[許可証]", "ans": "permit", "flag": 0}
+{"id": 334, "eng": "___ a problem", "jpn": "問題を[解決する]", "ans": "solve", "flag": 0}
+{"id": 335, "eng": "___ against a proposal", "jpn": "提案に反対[票を投じる]", "ans": "vote", "flag": 0}
+{"id": 336, "eng": "locally grown ___s", "jpn": "地元で育てられた[作物]", "ans": "crop", "flag": 0}
+{"id": 337, "eng": "There are no hotels in this ___.", "jpn": "この[近所]にはホテルがない。", "ans": "neighborhood", "flag": 0}
+{"id": 338, "eng": "the ___ exhibit", "jpn": "[常設の]展示物", "ans": "permanent", "flag": 0}
+{"id": 339, "eng": "We ___ to inform you that ...", "jpn": "...をお知らせすることを[残念に思います]。", "ans": "regret", "flag": 0}
+{"id": 340, "eng": "___ increased from 24 to 27 percent", "jpn": "２４％から２７％に[わずかに]増えた", "ans": "slightly", "flag": 0}
+{"id": 341, "eng": "The system is very ___.", "jpn": "そのシステムはとても[複雑だ]。", "ans": "complicated", "flag": 0}
+{"id": 342, "eng": "various ___s", "jpn": "さまざまな[要因]", "ans": "factor", "flag": 0}
+{"id": 343, "eng": "___ customer reviews", "jpn": "[好意的な]顧客のレビュー", "ans": "favorable", "flag": 0}
+{"id": 344, "eng": "___ same-day delivery", "jpn": "同日配送を[保証する]", "ans": "guarantee", "flag": 0}
+{"id": 345, "eng": "due to ___ trouble", "jpn": "[機械の]トラブルが原因で", "ans": "mechanical", "flag": 0}
+{"id": 346, "eng": "a high ___", "jpn": "高い[優先順位]", "ans": "priority", "flag": 0}
+{"id": 347, "eng": "___ recent trend", "jpn": "[比較的]最近のトレンド", "ans": "relatively", "flag": 0}
+{"id": 348, "eng": "Water is an important natural ___.", "jpn": "水は貴重な天然[資源]だ。", "ans": "resource", "flag": 0}
+{"id": 349, "eng": "free ___ service", "jpn": "無料の[送迎]サービス", "ans": "shuttle", "flag": 0}
+{"id": 350, "eng": "The catalog is ___d into three sections.", "jpn": "カタログは３つのセクションに[分かれています]。", "ans": "divide", "flag": 0}
+{"id": 351, "eng": "a singer ___ to the town", "jpn": "その町[出身の]歌手", "ans": "native", "flag": 0}
+{"id": 352, "eng": "We can't ___ to do that.", "jpn": "我々にはそうする[余裕があり]ません。", "ans": "afford", "flag": 0}
+{"id": 353, "eng": "high ___", "jpn": "高い[収入]", "ans": "income", "flag": 0}
+{"id": 354, "eng": "demage ___red during shipment", "jpn": "配送中に損傷が[発生した]", "ans": "occur", "flag": 0}
+{"id": 355, "eng": "significant ___s", "jpn": "大幅な[値引き]", "ans": "saving", "flag": 0}
+{"id": 356, "eng": "research ___", "jpn": "調査で[分かったこと]", "ans": "findings", "flag": 0}
+{"id": 357, "eng": "I was unable to ___ the book.", "jpn": "私はその本を[見つける]ことができなかった。", "ans": "locate", "flag": 0}
+{"id": 358, "eng": "___ a meeting", "jpn": "会議を[延期する]", "ans": "postpone", "flag": 0}
+{"id": 359, "eng": "___ the environment", "jpn": "環境を[保護する]", "ans": "preserve", "flag": 0}
+{"id": 360, "eng": "___ to be difficult", "jpn": "難しいと[分かる]", "ans": "prove", "flag": 0}
+{"id": 361, "eng": "I can't remember the ___ date.", "jpn": "[正確な]日付は思い出せません。", "ans": "exact", "flag": 0}
+{"id": 362, "eng": "___ popularity", "jpn": "人気を[得る]", "ans": "gain", "flag": 0}
+{"id": 363, "eng": "___ costs", "jpn": "[人件]費", "ans": "labor", "flag": 0}
+{"id": 364, "eng": "be widely ___ed as ...", "jpn": "...と広く[みなされる]。", "ans": "regard", "flag": 0}
+{"id": 365, "eng": "work ___ with local businesses", "jpn": "地元の会社と[密に]仕事をする", "ans": "closely", "flag": 0}
+{"id": 366, "eng": "___ a promotion", "jpn": "昇進に[値する]", "ans": "deserve", "flag": 0}
+{"id": 367, "eng": "___ problems", "jpn": "問題を[特定する]", "ans": "identify", "flag": 0}
+{"id": 368, "eng": "___ customers", "jpn": "[常連の]顧客", "ans": "loyal", "flag": 0}
+{"id": 369, "eng": "the most ___ applicant", "jpn": "最も[有望な]候補者", "ans": "promising", "flag": 1}
+{"id": 370, "eng": "___ the importance of reading", "jpn": "読書の重要性を[強調する]", "ans": "stress", "flag": 0}
+{"id": 371, "eng": "___ customer feedback", "jpn": "お客様の意見を[分析する]", "ans": "analyze", "flag": 0}
+{"id": 372, "eng": "The report was ___ed  by Tex Corporation.", "jpn": "その報告書はテックス社からの[委託を受けた]ものだ。", "ans": "commission", "flag": 0}
+{"id": 373, "eng": "We are ___ to providing quality service.", "jpn": "当社は質の高いサービスを提供することに[熱心に取り組んでいます]。", "ans": "committed", "flag": 0}
+{"id": 374, "eng": "a cost ___", "jpn": "コストの[比較]", "ans": "comparison", "flag": 0}
+{"id": 375, "eng": "electronic ___s", "jpn": "電子[部品]", "ans": "component", "flag": 0}
+{"id": 376, "eng": "___ staff to work from home", "jpn": "スタッフが自宅で仕事をすることを[可能にする]", "ans": "enable", "flag": 0}
+{"id": 377, "eng": "an ___ stay at a hotel", "jpn": "ホテルでの[楽しい]滞在", "ans": "enjoyable", "flag": 0}
+{"id": 378, "eng": "___ customers", "jpn": "[従来の]顧客", "ans": "existing", "flag": 0}
+{"id": 379, "eng": "post a ___", "jpn": "[チラシ]を掲示する", "ans": "flyer", "flag": 0}
+{"id": 380, "eng": "___ to the boarding gate", "jpn": "搭乗口に[進む]", "ans": "proceed", "flag": 0}
+{"id": 381, "eng": "Tex ___ed us from entering the room.", "jpn": "テックスは私たちが部屋に入るのを[妨げた]。", "ans": "prevent", "flag": 0}
+{"id": 382, "eng": "teachers and students ___", "jpn": "教師も生徒も[同様に]", "ans": "alike", "flag": 0}
+{"id": 383, "eng": "I was ___ed chairperson of the committee.", "jpn": "私は委員会の議長に[指名された]。", "ans": "appoint", "flag": 0}
+{"id": 384, "eng": "a high-speed Internet ___", "jpn": "高速インターネット[接続]", "ans": "connection", "flag": 1}
+{"id": 385, "eng": "I am ___ to learn new things.", "jpn": "私は新しいことを学びたいと[熱望しています]。", "ans": "eager", "flag": 0}
+{"id": 386, "eng": "___ of use", "jpn": "使い[やすさ]", "ans": "ease", "flag": 0}
+{"id": 387, "eng": "___ common", "jpn": "[かなり]普通の", "ans": "fairly", "flag": 0}
+{"id": 388, "eng": "___ free of charge", "jpn": "[完全に]無料で", "ans": "absolutely", "flag": 0}
+{"id": 389, "eng": "a warm ___", "jpn": "温かい[雰囲気]", "ans": "atmosphere", "flag": 1}
+{"id": 390, "eng": "___ delivery costs", "jpn": "配送料を[計算する]", "ans": "calculate", "flag": 0}
+{"id": 391, "eng": "in ___ to last year", "jpn": "昨年とは[対照]的に", "ans": "contrast", "flag": 0}
+{"id": 392, "eng": "___ the quality of products", "jpn": "製品の品質を[監視する]", "ans": "monitor", "flag": 0}
+{"id": 393, "eng": "I ___ travel abroad.", "jpn": "私は[時々]海外に出張する。", "ans": "occasionally", "flag": 0}
+{"id": 394, "eng": "___ experience", "jpn": "[実務の]経験", "ans": "practical", "flag": 0}
+{"id": 395, "eng": "a ___ problem", "jpn": "[重大な]問題", "ans": "serious", "flag": 0}
+{"id": 396, "eng": "the ___ of materials", "jpn": "材料の[強度]", "ans": "strength", "flag": 1}
+{"id": 397, "eng": "___ important", "jpn": "[同じくらい]重要な", "ans": "equally", "flag": 0}
+{"id": 398, "eng": "___s from China", "jpn": "中国からの[輸入品]", "ans": "import", "flag": 0}
+{"id": 399, "eng": "an ___ survey", "jpn": "[非公式の]調査", "ans": "informal", "flag": 0}
+{"id": 400, "eng": "I haven't seen Tex ___.", "jpn": "[最近]テックスを見ていない。", "ans": "lately", "flag": 0}
+{"id": 401, "eng": "Why did you choose this ___?", "jpn": "なぜあなたはこの[職業]を選んだのですか。", "ans": "profession", "flag": 0}
+{"id": 402, "eng": "permission from a ___", "jpn": "[上司]の許可", "ans": "supervisor", "flag": 0}
+{"id": 403, "eng": "___ that the products are safe", "jpn": "製品が安全であることを[保証する]", "ans": "ensure", "flag": 0}
+{"id": 404, "eng": "hundreds of ___s from readers", "jpn": "読者からの何百もの[提出物]", "ans": "submission", "flag": 0}
+{"id": 405, "eng": "___ employees of the change", "jpn": "従業員に変更を[知らせる]", "ans": "notify", "flag": 0}
+{"id": 406, "eng": "I ___ need the item.", "jpn": "私は[絶対に]その品物が必要だ。", "ans": "definitely", "flag": 0}
+{"id": 407, "eng": "Employees are ___ to receive paid holidays.", "jpn": "社員は有給休暇を受け取る[資格がある]。", "ans": "eligible", "flag": 0}
+{"id": 408, "eng": "All the ___ is ready.", "jpn": "すべての[書類]の準備ができています。", "ans": "paperwork", "flag": 1}
+{"id": 409, "eng": "a ___ breakfast", "jpn": "[無料の]朝食", "ans": "complimentary", "flag": 0}
+{"id": 410, "eng": "___ a plan", "jpn": "計画を[修正する]", "ans": "revise", "flag": 0}
+{"id": 411, "eng": "___ an order", "jpn": "注文を[追跡する]", "ans": "track", "flag": 0}
+{"id": 412, "eng": "an ___ assistant", "jpn": "[管理]アシスタント", "ans": "administrative", "flag": 0}
+{"id": 413, "eng": "___ stores", "jpn": "[小売]店", "ans": "retail", "flag": 0}
+{"id": 414, "eng": "reduce ___", "jpn": "[在庫]を減らす", "ans": "inventory", "flag": 0}
+{"id": 415, "eng": "___ analysis", "jpn": "[詳細な]分析", "ans": "extensive", "flag": 0}
+{"id": 416, "eng": "___ materials", "jpn": "[販促]物", "ans": "promotional", "flag": 0}
+{"id": 417, "eng": "___ service", "jpn": "[仕出し]サービス", "ans": "catering", "flag": 0}
+{"id": 418, "eng": "a ___ photographer", "jpn": "[野生動物]の写真家", "ans": "wildlife", "flag": 0}
+{"id": 419, "eng": "I have been ___ed the work.", "jpn": "私はその仕事を[任された]。", "ans": "assign", "flag": 0}
+{"id": 420, "eng": "What is ___d about the hotel?", "jpn": "ホテルについて何が[ほのめかされています]か。", "ans": "imply", "flag": 0}
+{"id": 421, "eng": "I am looking forward to the ___.", "jpn": "私は[夕食会]を楽しみにしている。", "ans": "banquet", "flag": 1}
+{"id": 422, "eng": "___ until the end of May", "jpn": "５月末まで[有効な]", "ans": "valid", "flag": 0}
+{"id": 423, "eng": "provide quality service at ___ prices", "jpn": "質の高いサービスを[手ごろな]価格で提供する", "ans": "affordable", "flag": 1}
+{"id": 424, "eng": "anewly ___d library", "jpn": "新しく[改装された]図書館", "ans": "renovate", "flag": 0}
+{"id": 425, "eng": "follow industry ___", "jpn": "業界の[指針]に従う", "ans": "guidelines", "flag": 0}
+{"id": 426, "eng": "a copy of the ___", "jpn": "[認定証]の写し", "ans": "certificate", "flag": 0}
+{"id": 427, "eng": "an ___ technology", "jpn": "[革新的な]技術", "ans": "innovative", "flag": 0}
+{"id": 428, "eng": "the first item on the ___", "jpn": "[議題]の最初の項目", "ans": "agenda", "flag": 1}
+{"id": 429, "eng": "___ line workers", "jpn": "[組み立て]ラインの作業員", "ans": "assembly", "flag": 0}
+{"id": 430, "eng": "___ a new printer", "jpn": "新しいプリンターを[設置する]", "ans": "install", "flag": 0}
+{"id": 431, "eng": "new employee ___", "jpn": "新入社員向け[説明会]", "ans": "orientation", "flag": 0}
+{"id": 432, "eng": "a ___ scientist", "jpn": "[名高い]科学者", "ans": "renowned", "flag": 0}
+{"id": 433, "eng": "___ clothes for a job interview", "jpn": "面接に[適した]服装", "ans": "appropriate", "flag": 0}
+{"id": 434, "eng": "use fresh ___s", "jpn": "新鮮な[材料]を使う", "ans": "ingredient", "flag": 0}
+{"id": 435, "eng": "a ___ facility", "jpn": "[貯蔵]施設", "ans": "storage", "flag": 0}
+{"id": 436, "eng": "serve food and ___s to guests", "jpn": "お客様に食事と[飲み物]を出す", "ans": "beverage", "flag": 0}
+{"id": 437, "eng": "___ to the meeting", "jpn": "ミーティングの[前に]", "ans": "prior", "flag": 0}
+{"id": 438, "eng": "the upcoming ___ with Tex Corporation", "jpn": "テックス社との近く行われる[合併]", "ans": "merger", "flag": 0}
+{"id": 439, "eng": "a seaside ___", "jpn": "海辺の[宿]", "ans": "inn", "flag": 1}
+{"id": 440, "eng": "Each room is ___ped  with Internet access.", "jpn": "それぞれの部屋にはインターネットが[備わっています]。", "ans": "equip", "flag": 0}
+{"id": 441, "eng": "a brief ___", "jpn": "短い[要約]", "ans": "summary", "flag": 0}
+{"id": 442, "eng": "a two-year ___", "jpn": "２年間の[賃貸契約]", "ans": "lease", "flag": 0}
+{"id": 443, "eng": "return a ___ product", "jpn": "[欠陥のある]製品を返品する", "ans": "defective", "flag": 0}
+{"id": 444, "eng": "a ___ magazine", "jpn": "[季刊]誌（年に４回発行される雑誌）", "ans": "quarterly", "flag": 0}
+{"id": 445, "eng": "an ___ warranty", "jpn": "[長期の]保障", "ans": "extended", "flag": 0}
+{"id": 446, "eng": "a famous ___", "jpn": "有名な[建築家]", "ans": "architect", "flag": 0}
+{"id": 447, "eng": "a local ___ store", "jpn": "地元の[食品雑貨]店", "ans": "grocery", "flag": 0}
+{"id": 448, "eng": "a ___ exhibition", "jpn": "[彫刻]展", "ans": "sculpture", "flag": 0}
+{"id": 449, "eng": "send an ___", "jpn": "[旅程表]を送る", "ans": "itinerary", "flag": 0}
+{"id": 450, "eng": "the company ___", "jpn": "社員[名簿]", "ans": "directory", "flag": 0}
+{"id": 451, "eng": "My driver's license ___s in April.", "jpn": "私の運転免許証は４月に[期限が切れます]。", "ans": "expire", "flag": 0}
+{"id": 452, "eng": "negotiate with ___s", "jpn": "[業者]と交渉する", "ans": "vendor", "flag": 0}
+{"id": 453, "eng": "talk with a ___", "jpn": "[同僚]と話をする", "ans": "colleague", "flag": 0}
+{"id": 454, "eng": "library ___s", "jpn": "図書館の[愛用者]", "ans": "patron", "flag": 0}
+{"id": 455, "eng": "___ an office", "jpn": "オフィスを[移転する]", "ans": "relocate", "flag": 0}
+{"id": 456, "eng": "___ industry", "jpn": "[観光]産業", "ans": "tourism", "flag": 0}
+{"id": 457, "eng": "My office is being ___ed.", "jpn": "私のオフィスは[改築]中です。", "ans": "remodel", "flag": 0}
+{"id": 458, "eng": "___ reports", "jpn": "[消費者]レポート", "ans": "consumer", "flag": 0}
+{"id": 459, "eng": "___ a building", "jpn": "建物を[検査する]", "ans": "inspect", "flag": 0}
+{"id": 460, "eng": "I have eaten at ___ local restaurants.", "jpn": "私は[数多くの]地元のレストランで食事をしたことがあります。", "ans": "numerous", "flag": 0}
+{"id": 461, "eng": "a new ___ system", "jpn": "新しい[給与管理]システム", "ans": "payroll", "flag": 0}
+{"id": 462, "eng": "I am ___ for the position.", "jpn": "わたしはその職に[適任だ]。", "ans": "qualified", "flag": 0}
+{"id": 463, "eng": "kitchen ___s", "jpn": "台所用[電化製品]", "ans": "appliance", "flag": 0}
+{"id": 464, "eng": "excellent service and ___ prices", "jpn": "優れたサービスと[他に負けない]価格", "ans": "competitive", "flag": 0}
+{"id": 465, "eng": "The company ___s in Web design.", "jpn": "その会社はウェブデザインを[専門にしている]。", "ans": "specialize", "flag": 0}
+{"id": 466, "eng": "fill out a ___", "jpn": "[アンケート用紙]に記入する", "ans": "questionnaire", "flag": 0}
+{"id": 467, "eng": "___ two hours", "jpn": "[約]２時間", "ans": "approximately", "flag": 0}
+{"id": 468, "eng": "___ to a team", "jpn": "チームに[貢献する]", "ans": "contribute", "flag": 0}
+{"id": 469, "eng": "improve ___", "jpn": "[生産性]を改善する", "ans": "productivity", "flag": 1}
+{"id": 470, "eng": "The meeting starts ___ at 1 P.M.", "jpn": "会議は午後１時[ちょうど]に始まります", "ans": "promptly", "flag": 0}
+{"id": 471, "eng": "a marketing ___", "jpn": "マーケティング[戦略]", "ans": "strategy", "flag": 1}
+{"id": 472, "eng": "experienced and ___ staff", "jpn": "経験豊富で[献身的な]スタッフ", "ans": "dedicated", "flag": 0}
+{"id": 473, "eng": "___ customer service", "jpn": "[並外れた]顧客サービス", "ans": "exceptional", "flag": 1}
+{"id": 474, "eng": "hold a ___", "jpn": "[昼食会]を開く", "ans": "luncheon", "flag": 0}
+{"id": 475, "eng": "___ expectations", "jpn": "期待を[超える]", "ans": "exceed", "flag": 0}
+{"id": 476, "eng": "operate in ___ countries", "jpn": "[複数の]国で営業する", "ans": "multiple", "flag": 0}
+{"id": 477, "eng": "the regulations clearly ___ that ...", "jpn": "規則には...とはっきり[記されている]。", "ans": "specify", "flag": 0}
+{"id": 478, "eng": "a convention ___", "jpn": "会議の[会場]", "ans": "venue", "flag": 0}
+{"id": 479, "eng": "___ products", "jpn": "[家庭用]製品", "ans": "household", "flag": 0}
+{"id": 480, "eng": "___ a product", "jpn": "製品を[評価する]", "ans": "evaluate", "flag": 0}
+{"id": 481, "eng": "___ with a client", "jpn": "顧客と[交渉する]", "ans": "negotiate", "flag": 0}
+{"id": 482, "eng": "make a ___", "jpn": "[予約]をする", "ans": "booking", "flag": 0}
+{"id": 483, "eng": "a daily ___ of 30,000", "jpn": "１日３万の[発行部数]", "ans": "circulation", "flag": 0}
+{"id": 484, "eng": "the ___ of the project", "jpn": "プロジェクトの[完了]", "ans": "completion", "flag": 0}
+{"id": 485, "eng": "___ work experience", "jpn": "[関連して]職務経験", "ans": "relevant", "flag": 0}
+{"id": 486, "eng": "a ___ review", "jpn": "[徹底的な]検討", "ans": "thorough", "flag": 0}
+{"id": 487, "eng": "fly to Seattle ___ Denver", "jpn": "デンバー[経由で]シアトルへ飛ぶ", "ans": "via", "flag": 0}
+{"id": 488, "eng": "relationships in the ___", "jpn": "[職場]での人間関係", "ans": "workplace", "flag": 0}
+{"id": 489, "eng": "The price includes flights and ___.", "jpn": "料金には航空運賃と[宿泊]費が含まれています。", "ans": "accommodations", "flag": 0}
+{"id": 490, "eng": "___ work hours", "jpn": "[フレックス]タイム制", "ans": "flexible", "flag": 0}
+{"id": 491, "eng": "some experts___ that ...", "jpn": "数名の専門家は...と[予測している]。", "ans": "predict", "flag": 0}
+{"id": 492, "eng": "seat and meal ___s", "jpn": "座席と食事の[希望]", "ans": "preference", "flag": 0}
+{"id": 493, "eng": "reduce costs by a ___ amount", "jpn": "[かなりの]額のコストを削減する", "ans": "substantial", "flag": 0}
+{"id": 494, "eng": "easily ___ by train", "jpn": "電車で簡単に[行ける]", "ans": "accessible", "flag": 0}
+{"id": 495, "eng": "media ___", "jpn": "メディアの[報道]", "ans": "converage", "flag": 0}
+{"id": 496, "eng": "___ profits", "jpn": "利益を[生み出す]", "ans": "generate", "flag": 0}
+{"id": 497, "eng": "___s will be served.", "jpn": "[軽食]が出ます。", "ans": "refreshment", "flag": 0}
+{"id": 498, "eng": "a ___ secretary", "jpn": "[頼りになる]秘書", "ans": "reliable", "flag": 1}
+{"id": 499, "eng": "advertising ___", "jpn": "広告[収入]", "ans": "revenue", "flag": 1}
+{"id": 500, "eng": "the ___ dinner", "jpn": "[資金集めの]夕食会", "ans": "fund-raising", "flag": 0}
+{"id": 501, "eng": "an ___ designer", "jpn": "[熟練した]デザイナー", "ans": "accomplished", "flag": 1}
+{"id": 502, "eng": "___ a company", "jpn": "会社を[買収する]", "ans": "acquire", "flag": 0}
+{"id": 503, "eng": "The weather is cold, so dress ___.", "jpn": "気候が寒冷なので、[それに応じた]服を着てください。", "ans": "accordingly", "flag": 0}
+{"id": 504, "eng": "positive reviews from ___s", "jpn": "[評論家]からの好意的なレビュー", "ans": "critic", "flag": 0}
+{"id": 505, "eng": "___ differences", "jpn": "違いを[強調する]", "ans": "highlight", "flag": 0}
+{"id": 506, "eng": "___ a businessperson", "jpn": "ビジネスパーソンの[人物紹介をする]", "ans": "profile", "flag": 0}
+{"id": 507, "eng": "___ employees", "jpn": "社員を[やる気にさせる]", "ans": "motivate", "flag": 0}
+{"id": 508, "eng": "a magazine ___", "jpn": "雑誌の[購読]", "ans": "subscription", "flag": 1}
+{"id": 509, "eng": "___ a serious problem", "jpn": "重大な問題に[直面する]", "ans": "encounter", "flag": 0}
+{"id": 510, "eng": "a ___ sedan", "jpn": "[高級]セダン車", "ans": "luxury", "flag": 1}
+{"id": 511, "eng": "Street parking is ___ed in this area.", "jpn": "路上駐車はこの地域では[禁止されています]。", "ans": "prohibit", "flag": 0}
+{"id": 512, "eng": "The problem was ___d.", "jpn": "問題は[解決された]。", "ans": "resolve", "flag": 0}
+{"id": 513, "eng": "Telephone service was ___d this morning.", "jpn": "通話サービスは今日の午前中に[復旧した]。", "ans": "restore", "flag": 0}
+{"id": 514, "eng": "___ areas", "jpn": "[周辺の]地域", "ans": "surrounding", "flag": 0}
+{"id": 515, "eng": "___ Tex to the problem", "jpn": "テックスに問題を[知らせる]", "ans": "alert", "flag": 0}
+{"id": 516, "eng": "the highly ___ new book", "jpn": "非常に[期待されている]新刊", "ans": "anticipated", "flag": 0}
+{"id": 517, "eng": "___ rank among the top 10 universities", "jpn": "[常に]トップ１０の大学にランクインしている", "ans": "consistently", "flag": 0}
+{"id": 518, "eng": "fat-free ___ products", "jpn": "無脂肪の[乳製品]", "ans": "dairy", "flag": 0}
+{"id": 519, "eng": "the first ___", "jpn": "第一[段階]", "ans": "phase", "flag": 0}
+{"id": 520, "eng": "edit a ___", "jpn": "[原稿]を編集する", "ans": "manuscript", "flag": 0}
+{"id": 521, "eng": "work a lot of ___", "jpn": "長時間[残業]する", "ans": "overtime", "flag": 0}
+{"id": 522, "eng": "on the ___", "jpn": "[敷地]内で", "ans": "premises", "flag": 0}
+{"id": 523, "eng": "The rent includes all ___s.", "jpn": "家賃には全ての[公共料金]が含まれています。", "ans": "utility", "flag": 0}
+{"id": 524, "eng": "a ___ room", "jpn": "[洗濯]部屋", "ans": "laundry", "flag": 0}
+{"id": 525, "eng": "I am ___ about the project.", "jpn": "私はそのプロジェクトに[乗り気]です。", "ans": "enthusiastic", "flag": 1}
+{"id": 526, "eng": "___ a policy", "jpn": "方針の[概要を説明する]", "ans": "outline", "flag": 0}
+{"id": 527, "eng": "a ___ of materials", "jpn": "[袋入り]の資料", "ans": "packet", "flag": 0}
+{"id": 528, "eng": "___ a receipt", "jpn": "レシートを[保管する]", "ans": "retain", "flag": 0}
+{"id": 529, "eng": "Make sure you have all your ___.", "jpn": "[所持品]をお持ちかご確認ください。", "ans": "belongings", "flag": 0}
+{"id": 530, "eng": "energy ___", "jpn": "エネルギーの[節約]", "ans": "conservation", "flag": 0}
+{"id": 531, "eng": "___ maintenance work", "jpn": "[普段行われている]メンテナンス作業", "ans": "routine", "flag": 0}
+{"id": 532, "eng": "live in ___ areas", "jpn": "[都市]部に住む", "ans": "urban", "flag": 1}
+{"id": 533, "eng": "50 percent of the ___", "jpn": "[全従業員]の５０％", "ans": "workforce", "flag": 1}
+{"id": 534, "eng": "a brief ___ of the author", "jpn": "著者の簡単な[人物紹介（略歴）]", "ans": "biography", "flag": 0}
+{"id": 535, "eng": "The company has recently changed ___.", "jpn": "その会社は最近、[所有権]が移転した。", "ans": "ownership", "flag": 0}
+{"id": 536, "eng": "a ___ chef", "jpn": "[焼き菓子]のシェフ", "ans": "pastry", "flag": 0}
+{"id": 537, "eng": "both building managers and ___s", "jpn": "建物の管理人も[入居者]も", "ans": "tenant", "flag": 0}
+{"id": 538, "eng": "reduce the ___", "jpn": "[仕事量]を減らす", "ans": "workload", "flag": 0}
+{"id": 539, "eng": "___ time", "jpn": "[十分な]時間", "ans": "sufficient", "flag": 0}
+{"id": 540, "eng": "main ___s of the product", "jpn": "その製品の主な[特徴]", "ans": "characteristic", "flag": 0}
+{"id": 541, "eng": "a ___ effort", "jpn": "[共同の]努力", "ans": "combined", "flag": 1}
+{"id": 542, "eng": "The event will ___ with a concert.", "jpn": "イベントはコンサートで[締めくくられる]予定です。", "ans": "conclude", "flag": 1}
+{"id": 543, "eng": "costs ___d eith buying a house", "jpn": "家の購入に[関連した]コスト", "ans": "associate", "flag": 0}
+{"id": 544, "eng": "because of a scheduling ___", "jpn": "スケジュールが[かち合った]ので", "ans": "conflict", "flag": 0}
+{"id": 545, "eng": "real estate ___", "jpn": "不動産[投資]", "ans": "investment", "flag": 0}
+{"id": 546, "eng": "see a ___", "jpn": "[医師]に診てもらう", "ans": "physician", "flag": 0}
+{"id": 547, "eng": "as a ___ of our appreciation for ...", "jpn": "...への我々の感謝の[印]として", "ans": "token", "flag": 0}
+{"id": 548, "eng": "a ___ refund", "jpn": "[部分]返金", "ans": "partial", "flag": 0}
+{"id": 549, "eng": "___ operation", "jpn": "授業を[再開する]", "ans": "resume", "flag": 0}
+{"id": 550, "eng": "car ___s", "jpn": "車の[販売特約店]", "ans": "dealership", "flag": 0}
+{"id": 551, "eng": "The ___ is made of cotton.", "jpn": "その[衣料品]は綿製です。", "ans": "garment", "flag": 0}
+{"id": 552, "eng": "Security measures were ___ed.", "jpn": "安全対策が[実施された]。", "ans": "implement", "flag": 0}
+{"id": 553, "eng": "receive a ___", "jpn": "[給料]を受け取る", "ans": "paycheck", "flag": 0}
+{"id": 554, "eng": "___ new staff", "jpn": "新しいスタッフを[採用する]", "ans": "recruit", "flag": 0}
+{"id": 555, "eng": "___ new for old", "jpn": "古いモノの[代わりに]新しいモノを[使う]", "ans": "substitute", "flag": 0}
+{"id": 556, "eng": "Our tours ___ take an hour.", "jpn": "我々のツアーは[通常]１時間かかります。", "ans": "typically", "flag": 0}
+{"id": 557, "eng": "an ___d dealer", "jpn": "[公認の]販売店", "ans": "authorize", "flag": 0}
+{"id": 558, "eng": "more expensive than ___ products", "jpn": "[同等の]製品より値段が高い", "ans": "comparable", "flag": 0}
+{"id": 559, "eng": "a ___ member at Tex College", "jpn": "テックス大学の[教員]", "ans": "faculty", "flag": 0}
+{"id": 560, "eng": "a growth ___", "jpn": "成長のための[新計画]", "ans": "initiative", "flag": 0}
+{"id": 561, "eng": "___ is calculated by weight.", "jpn": "[郵便料金]は重量で計算されます。", "ans": "postage", "flag": 0}
+{"id": 562, "eng": "The author will sign books ___.", "jpn": "[その後で]著者が本にサインをします。", "ans": "afterwards", "flag": 0}
+{"id": 563, "eng": "___ to cut energy use", "jpn": "エネルギーの使用を減らすことを[目指す]", "ans": "aim", "flag": 0}
+{"id": 564, "eng": "The film received ___ positive reviews.", "jpn": "その映画は[おおむね]良い評価を得た。", "ans": "generally", "flag": 0}
+{"id": 565, "eng": "The room is ___.", "jpn": "その部屋は[使われている]。", "ans": "occupied", "flag": 1}
+{"id": 566, "eng": "a ___ reputation", "jpn": "[確かな]評判", "ans": "solid", "flag": 0}
+{"id": 567, "eng": "Tex's ___ to become a singer.", "jpn": "歌手になろうとするテックスの[試み]", "ans": "attempt", "flag": 1}
+{"id": 568, "eng": "the person in ___", "jpn": "[権限]を持った人", "ans": "aurhority", "flag": 0}
+{"id": 569, "eng": "the ___ market", "jpn": "[国内の]市場", "ans": "domestic", "flag": 0}
+{"id": 570, "eng": "without ___", "jpn": "[許可]なしに", "ans": "permission", "flag": 0}
+{"id": 571, "eng": "a strong ___ in the area", "jpn": "地域での強い[存在感]", "ans": "presence", "flag": 0}
+{"id": 572, "eng": "a ___ growing company", "jpn": "[急速に]成長している会社", "ans": "rapidly", "flag": 0}
+{"id": 573, "eng": "provide ___ to consumers", "jpn": "消費者に[安心感]を与える", "ans": "relief", "flag": 1}
+{"id": 574, "eng": "___ employees for their hard work", "jpn": "従業員の頑張りに[報いる]", "ans": "reward", "flag": 0}
+{"id": 575, "eng": "___ English into Japanese", "jpn": "英語を日本語に[翻訳する]", "ans": "translate", "flag": 0}
+{"id": 576, "eng": "under any ___s", "jpn": "いかなる[状況]下でも", "ans": "circumstance", "flag": 0}
+{"id": 577, "eng": "___ to expectations", "jpn": "期待に[反して]", "ans": "contrary", "flag": 1}
+{"id": 578, "eng": "Mr. Kato was ___ promoted to CEO.", "jpn": "加藤さんは[最終的には]CEOに昇進した。", "ans": "eventually", "flag": 0}
+{"id": 579, "eng": "be directly ___d to the sun.", "jpn": "太陽に直接[さらされる]", "ans": "expose", "flag": 0}
+{"id": 580, "eng": "a ___ of experts", "jpn": "専門家[グループ]", "ans": "panel", "flag": 0}
+{"id": 581, "eng": "the bottom ___ of the ticket", "jpn": "チケットの下の[部分]", "ans": "portion", "flag": 0}
+{"id": 582, "eng": "___ duties", "jpn": "[主な]任務", "ans": "primary", "flag": 0}
+{"id": 583, "eng": "opening ___s", "jpn": "開会の[言葉]", "ans": "remark", "flag": 0}
+{"id": 584, "eng": "in a ___ manner", "jpn": "[タイミングの良い]やり方で", "ans": "timely", "flag": 0}
+{"id": 585, "eng": "the most ___ used methods", "jpn": "最も[一般に]用いられている方法", "ans": "commonly", "flag": 0}
+{"id": 586, "eng": "___ a doctor", "jpn": "医師に[相談する]", "ans": "consult", "flag": 0}
+{"id": 587, "eng": "___ a warehouse into an office", "jpn": "倉庫をオフィスに[改造する]", "ans": "convert", "flag": 1}
+{"id": 588, "eng": "You have no ___ to do so.", "jpn": "あなたにそうする[義務]はない。", "ans": "obligation", "flag": 0}
+{"id": 589, "eng": "___ without notice", "jpn": "予告なしに[辞任する]", "ans": "resign", "flag": 0}
+{"id": 590, "eng": "The door is ___ locked.", "jpn": "ドアには[しっかりと]鍵がかかっている。", "ans": "securely", "flag": 0}
+{"id": 591, "eng": "___ to cut costs", "jpn": "コスト削減のために[懸命に努力する]", "ans": "strive", "flag": 0}
+{"id": 592, "eng": "a ___ of events", "jpn": "イベントの[予定表]", "ans": "timeline", "flag": 0}
+{"id": 593, "eng": "___ Tex to change his mind", "jpn": "テックスに考えを変えるよう[強く促す]。", "ans": "urge", "flag": 0}
+{"id": 594, "eng": "___ receipt of the order", "jpn": "通門を受け取ったことを[知らせる]", "ans": "acknowledge", "flag": 1}
+{"id": 595, "eng": "a ___ group of experts", "jpn": "[多種多様な]専門家のグループ", "ans": "diverse", "flag": 0}
+{"id": 596, "eng": "a bank ___", "jpn": "銀行[取引]", "ans": "transaction", "flag": 0}
+{"id": 597, "eng": "a ___ of information", "jpn": "情報[不足]", "ans": "lack", "flag": 1}
+{"id": 598, "eng": "Customer satisfaction is ___ to us.", "jpn": "顧客満足が当社にとって[最も重要]です。", "ans": "essential", "flag": 0}
+{"id": 599, "eng": "the ___ of employees", "jpn": "従業員の[大部分]", "ans": "majority", "flag": 1}
+{"id": 600, "eng": "___ a trend", "jpn": "傾向に[気付く]", "ans": "observe", "flag": 0}
+{"id": 601, "eng": "___ knowledge", "jpn": "知識を[持つ]", "ans": "possess", "flag": 0}
+{"id": 602, "eng": "Sales rose ___.", "jpn": "売り上げが[急激に]上がった。", "ans": "sharply", "flag": 0}
+{"id": 603, "eng": "make ___s to the plan", "jpn": "計画を[調整]する", "ans": "adjustment", "flag": 0}
+{"id": 604, "eng": "I prefer an ___ seat.", "jpn": "[通路]側の席がいいです。", "ans": "aisle", "flag": 0}
+{"id": 605, "eng": "Photographs ___ memorable moments in life.", "jpn": "写真は人生の思い出の瞬間を[記録します]。", "ans": "capture", "flag": 0}
+{"id": 606, "eng": "The committee ___s of five members.", "jpn": "委員会は５人のメンバーで[構成されている]。", "ans": "consist", "flag": 1}
+{"id": 607, "eng": "Teaching experience is ___.", "jpn": "指導経験があることが[望ましい]。", "ans": "desirable", "flag": 0}
+{"id": 608, "eng": "a ___ used bus route", "jpn": "[非常に頻繁に]使われるバスの路線", "ans": "heavily", "flag": 0}
+{"id": 609, "eng": "___ a possibility", "jpn": "可能性を[調査する]", "ans": "investigate", "flag": 0}
+{"id": 610, "eng": "take the ___s of a table", "jpn": "テーブルの[寸法]を測る", "ans": "measurement", "flag": 0}
+{"id": 611, "eng": "an ___ request", "jpn": "[緊急の]依頼", "ans": "urgent", "flag": 1}
+{"id": 612, "eng": "the ___ counter", "jpn": "[レジ]カウンター", "ans": "checkout", "flag": 0}
+{"id": 613, "eng": "___ of garbage", "jpn": "ごみを[処分する]", "ans": "dispose", "flag": 0}
+{"id": 614, "eng": "___ a contract", "jpn": "契約を[修正する]", "ans": "modify", "flag": 0}
+{"id": 615, "eng": "open an ___ in Japan", "jpn": "日本で[店舗]をオープンする", "ans": "outlet", "flag": 0}
+{"id": 616, "eng": "ask for a ___", "jpn": "[処方箋]を依頼する", "ans": "prescription", "flag": 0}
+{"id": 617, "eng": "___ downtown, the hotel is convenient.", "jpn": "中心街に[位置していて]、そのホテルは便利だ。", "ans": "situated", "flag": 0}
+{"id": 618, "eng": "___, Tex passed the exam.", "jpn": "[驚いたことに]、テックスは試験に合格した。", "ans": "surprisingly", "flag": 0}
+{"id": 619, "eng": "___ a train station into a museum", "jpn": "電車の駅を博物館に[一変させる]", "ans": "transform", "flag": 0}
+{"id": 620, "eng": "___ major renovations", "jpn": "大規模な改装[に入る]", "ans": "undergo", "flag": 1}
+{"id": 621, "eng": "the ___s for the new theater", "jpn": "新しい劇場の[設計図]", "ans": "blueprint", "flag": 0}
+{"id": 622, "eng": "___ the company's profit", "jpn": "会社の利益を[押し上げる]", "ans": "boost", "flag": 0}
+{"id": 623, "eng": "___ lower prices", "jpn": "[かなり]安くなった価格", "ans": "considerably", "flag": 0}
+{"id": 624, "eng": "___ a risk", "jpn": "リスクを[取り除く]", "ans": "eliminate", "flag": 0}
+{"id": 625, "eng": "available ___ to our members", "jpn": "メンバー[限定で]利用できる", "ans": "exclusively", "flag": 0}
+{"id": 626, "eng": "The pipe under the sink is ___ing.", "jpn": "流しの下のパイプから水が[濡れている]。", "ans": "leak", "flag": 0}
+{"id": 627, "eng": "___ results from a survey", "jpn": "調査の[暫定]結果", "ans": "preliminary", "flag": 0}
+{"id": 628, "eng": "a ___ design", "jpn": "[洗練された]デザイン", "ans": "sophisticated", "flag": 0}
+{"id": 629, "eng": "the most recent ___", "jpn": "一番最近の[統計]", "ans": "statistics", "flag": 0}
+{"id": 630, "eng": "a ___ unit in an apartment building", "jpn": "アパートの[空]室", "ans": "vacant", "flag": 0}
+{"id": 631, "eng": "___ of payment", "jpn": "支払いの[証拠]", "ans": "evidence", "flag": 0}
+{"id": 632, "eng": "a shopping ___", "jpn": "買い物の[お出かけ]", "ans": "excursion", "flag": 0}
+{"id": 633, "eng": "___ a decision", "jpn": "結論に[影響を与える]", "ans": "influence", "flag": 0}
+{"id": 634, "eng": "live in an ___ house", "jpn": "[普通の]家に住む", "ans": "ordinary", "flag": 0}
+{"id": 635, "eng": "___ a proposal", "jpn": "提案を[却下する]", "ans": "reject", "flag": 0}
+{"id": 636, "eng": "___ services to client's needs", "jpn": "顧客のニーズにサービスを[合わせる]", "ans": "tailor", "flag": 0}
+{"id": 637, "eng": "___ responsibilities", "jpn": "職務を[引き受ける]", "ans": "assume", "flag": 0}
+{"id": 638, "eng": "a previous ___", "jpn": "前からの[約束]", "ans": "engagement", "flag": 0}
+{"id": 639, "eng": "achieve international ___", "jpn": "国際的な[名声]を得る", "ans": "fame", "flag": 0}
+{"id": 640, "eng": "a ___ increase in price", "jpn": "[小物の]値上げ", "ans": "modest", "flag": 0}
+{"id": 641, "eng": "apply for a ___", "jpn": "[特許]を出願する", "ans": "patent", "flag": 0}
+{"id": 642, "eng": "The company is ___ing a new market.", "jpn": "その会社は新しい市場を[追い求めている]。", "ans": "pursue", "flag": 1}
+{"id": 643, "eng": "a ___ mountain village", "jpn": "[人里離れた]山村", "ans": "remote", "flag": 0}
+{"id": 644, "eng": "___ the cause of the problem", "jpn": "時間の原因を[明らかにする]", "ans": "reveal", "flag": 0}
+{"id": 645, "eng": "a housing ___", "jpn": "住宅[手当]", "ans": "allowance", "flag": 1}
+{"id": 646, "eng": "Innovation is ___ for business success.", "jpn": "技術革新は会社の成功に[非常に重要]だ。", "ans": "crucial", "flag": 0}
+{"id": 647, "eng": "a ___ career as a journalist", "jpn": "ジャーナリストとしての[際立って優れた]経歴", "ans": "distinguished", "flag": 0}
+{"id": 648, "eng": "I'm sorry to ___ you.", "jpn": "[邪魔して]すみません。", "ans": "disturb", "flag": 0}
+{"id": 649, "eng": "Applicants must be ___ in Mandarin.", "jpn": "応募者は北京語が[ペラペラで]なければいけません。", "ans": "fluent", "flag": 0}
+{"id": 650, "eng": "___ requirements", "jpn": "必要条件を[満たす]", "ans": "fulfill", "flag": 0}
+{"id": 651, "eng": "the ___ of the survey", "jpn": "アンケート調査の[目印]", "ans": "objective", "flag": 1}
+{"id": 652, "eng": "___ employees from accessing the Internet", "jpn": "従業員がインターネットにアクセスすることを[制限する]", "ans": "restrict", "flag": 0}
+{"id": 653, "eng": "Sales have been increasing ___.", "jpn": "売り上げは[着実に]伸びている。", "ans": "steadily", "flag": 0}
+{"id": 654, "eng": "an ___ explanation", "jpn": "[十分な]説明", "ans": "adequate", "flag": 0}
+{"id": 655, "eng": "the ___ of the value", "jpn": "価値の[評価]", "ans": "assessment", "flag": 1}
+{"id": 656, "eng": "Mr. Kato ___s his success to luck.", "jpn": "加藤さんは自分が成功したのは幸運の[おかげだとしている]。", "ans": "attribute", "flag": 0}
+{"id": 657, "eng": "prepare an agenda ___", "jpn": "[前もって]アジェンダを用意する", "ans": "beforehand", "flag": 0}
+{"id": 658, "eng": "a ___ task", "jpn": "[やりがいのある]任務", "ans": "challenging", "flag": 1}
+{"id": 659, "eng": "Good luck in your future ___s.", "jpn": "皆さんのこれからの[努力]が実ることを祈っています。", "ans": "endeavor", "flag": 0}
+{"id": 660, "eng": "an ___ speech", "jpn": "[やる気の出る]スピーチ", "ans": "inspiring", "flag": 0}
+{"id": 661, "eng": "make ___ progress", "jpn": "[驚くべき]進歩を遂げる", "ans": "remarkable", "flag": 0}
+{"id": 662, "eng": "take safety ___s", "jpn": "安全[対策]を講じる", "ans": "measure", "flag": 0}
+{"id": 663, "eng": "The company is ___ing  to survive.", "jpn": "その会社は生き残るために[奮闘している]。", "ans": "struggle", "flag": 1}
+{"id": 664, "eng": "the ___ level", "jpn": "[賃金]水準", "ans": "wage", "flag": 0}
+{"id": 665, "eng": "___ to a new work environment", "jpn": "新しい職場環境に[適応する]", "ans": "adapt", "flag": 0}
+{"id": 666, "eng": "set an ___ goal", "jpn": "[意欲的な]目標を設定する", "ans": "ambitious", "flag": 0}
+{"id": 667, "eng": "I am ___ of doing the job.", "jpn": "私にはその仕事をする[能力がある]。", "ans": "capable", "flag": 0}
+{"id": 668, "eng": "have serious ___s", "jpn": "深刻な[結果]を生む", "ans": "consequence", "flag": 0}
+{"id": 669, "eng": "___ a fee on customers", "jpn": "顧客に料金を[課す]", "ans": "impose", "flag": 1}
+{"id": 670, "eng": "the former and the ___", "jpn": "前者と[後者]", "ans": "latter", "flag": 0}
+{"id": 671, "eng": "the daily ___ of a factory", "jpn": "工場の１日の[生産量]", "ans": "output", "flag": 0}
+{"id": 672, "eng": "___ announce", "jpn": "[誇らしげに]発表する", "ans": "proudly", "flag": 0}
+{"id": 673, "eng": "a ___ supply of electricity", "jpn": "電気の[安定した]供給", "ans": "stable", "flag": 1}
+{"id": 674, "eng": "the ___ from school to work", "jpn": "学校生活から社会人生活への[移行]", "ans": "transition", "flag": 0}
+{"id": 675, "eng": "without written ___", "jpn": "書面での[同意]なしに", "ans": "consent", "flag": 0}
+{"id": 676, "eng": "produce ___ cars and trucks", "jpn": "[信頼できる]車とトラックを生産する", "ans": "dependable", "flag": 0}
+{"id": 677, "eng": "Mr. Kato is a ___ worker.", "jpn": "加藤さんは[勤勉な]働き手だ。", "ans": "diligent", "flag": 0}
+{"id": 678, "eng": "___ a point", "jpn": "ポイントを[説明する]", "ans": "illustrate", "flag": 0}
+{"id": 679, "eng": "work ___ and as a team member", "jpn": "[単独でも]チームの一員としても働く", "ans": "independently", "flag": 1}
+{"id": 680, "eng": "the company's ___", "jpn": "会社の[使命]", "ans": "mission", "flag": 0}
+{"id": 681, "eng": "___ exercise", "jpn": "[適度な]運動", "ans": "moderate", "flag": 0}
+{"id": 682, "eng": "the sales ___", "jpn": "売り上げ[見通し]", "ans": "outlook", "flag": 0}
+{"id": 683, "eng": "rapidly and ___", "jpn": "迅速かつ[正確に]", "ans": "precisely", "flag": 0}
+{"id": 684, "eng": "a ___ effort", "jpn": "[集中的な]努力", "ans": "concentrated", "flag": 0}
+{"id": 685, "eng": "The hotel has ___ parking.", "jpn": "そのホテルには[十分な]駐車スペースがある。", "ans": "ample", "flag": 0}
+{"id": 686, "eng": "an ___ to the team", "jpn": "チームにとっての[財産]", "ans": "asset", "flag": 0}
+{"id": 687, "eng": "a ___ issue", "jpn": "[議論を引き起こす]問題", "ans": "controversial", "flag": 0}
+{"id": 688, "eng": "___ sales", "jpn": "[期待外れの]売り上げ", "ans": "disappointing", "flag": 0}
+{"id": 689, "eng": "Tex was ___ in the project.", "jpn": "テックスはそのプロジェクトで[重要な役割を果たし]た。", "ans": "instrumental", "flag": 0}
+{"id": 690, "eng": "without ___", "jpn": "[中断]なしに", "ans": "interruption", "flag": 0}
+{"id": 691, "eng": "from a broad ___", "jpn": "幅広い[観点]から", "ans": "perspective", "flag": 0}
+{"id": 692, "eng": "the ___ of the study", "jpn": "調査の[範囲]", "ans": "scope", "flag": 0}
+{"id": 693, "eng": "___ from industry experts", "jpn": "業界の専門家の[推測]", "ans": "speculation", "flag": 0}
+{"id": 694, "eng": "___ income by writing books", "jpn": "収入を執筆で[補う]", "ans": "supplement", "flag": 0}
+{"id": 695, "eng": "We are really ___.", "jpn": "本当に[人手不足]です。", "ans": "understaffed", "flag": 0}
+{"id": 696, "eng": "The CEO ___ appears in public.", "jpn": "そのCEOは[めったに]公に姿をみせ[ない]。", "ans": "rarely", "flag": 0}
+{"id": 697, "eng": "use ___", "jpn": "[注意]を払う", "ans": "caution", "flag": 0}
+{"id": 698, "eng": "___ to limit the use of drones", "jpn": "ドローンの使用を制限する[法律]", "ans": "legislation", "flag": 0}
+{"id": 699, "eng": "a ___ choice", "jpn": "[妥当な]選択", "ans": "logical", "flag": 1}
+{"id": 700, "eng": "a ___ business", "jpn": "[製材]業", "ans": "lumber", "flag": 1}
+{"id": 701, "eng": "the ___ side", "jpn": "[裏]側", "ans": "reverse", "flag": 0}
+{"id": 702, "eng": "Attendance is ___.", "jpn": "参加は[任意]です。", "ans": "voluntary", "flag": 0}
+{"id": 703, "eng": "a construction ___", "jpn": "建設[請負業者]", "ans": "contractor", "flag": 0}
+{"id": 704, "eng": "The company has an ___ childcare center.", "jpn": "会社には[社内の]託児所があります。", "ans": "on-site", "flag": 0}
+{"id": 705, "eng": "a ___ list of products", "jpn": "製品の[総合的な]リスト", "ans": "comprehensive", "flag": 0}
+{"id": 706, "eng": "___ documents", "jpn": "[機密]書類", "ans": "confidential", "flag": 0}
+{"id": 707, "eng": "___ in computer programming", "jpn": "コンピュータ・プログラミングの[専門知識]", "ans": "expertise", "flag": 1}
+{"id": 708, "eng": "one of Tokyo's ___ restaurants", "jpn": "東京で[最高の]レストランの一つ", "ans": "premier", "flag": 1}
+{"id": 709, "eng": "a ___ shop", "jpn": "[土産物]店", "ans": "souvenir", "flag": 0}
+{"id": 710, "eng": "___ trips", "jpn": "[川下り]の旅", "ans": "rafting", "flag": 0}
+{"id": 711, "eng": "in the overhead ___", "jpn": "頭上の[スペース]の中に", "ans": "compartment", "flag": 0}
+{"id": 712, "eng": "check ___ samples", "jpn": "[生地]サンプルをチェックする", "ans": "fabric", "flag": 0}
+{"id": 713, "eng": "a ___ room", "jpn": "[広々とした]部屋", "ans": "spacious", "flag": 0}
+{"id": 714, "eng": "make ___s to the air conditioning system", "jpn": "冷暖房システムを[改良する]", "ans": "upgrade", "flag": 0}
+{"id": 715, "eng": "___ new products", "jpn": "新製品を[披露する]", "ans": "showcase", "flag": 1}
+{"id": 716, "eng": "a ___ train", "jpn": "[通勤者]が乗る電車（[通勤]電車）", "ans": "commuter", "flag": 0}
+{"id": 717, "eng": "___ customer service", "jpn": "顧客サービスを[高める]", "ans": "enhance", "flag": 0}
+{"id": 718, "eng": "use a ___ elevator", "jpn": "[貨物]エレベーターを使う", "ans": "freight", "flag": 0}
+{"id": 719, "eng": "___ a colleague for an award", "jpn": "同僚を賞に[推薦する]", "ans": "nominate", "flag": 1}
+{"id": 720, "eng": "a ___ appliance", "jpn": "[製造が終了した]電化製品", "ans": "discontinued", "flag": 0}
+{"id": 721, "eng": "a ___ program", "jpn": "[メンター制度]プログラム", "ans": "mentoring", "flag": 0}
+{"id": 722, "eng": "___ service", "jpn": "[個人に合わせた]サービス", "ans": "personalized", "flag": 0}
+{"id": 723, "eng": "work at a ___", "jpn": "[薬局]で働く", "ans": "pharmacy", "flag": 0}
+{"id": 724, "eng": "an ___ from a meeting", "jpn": "会議の[抜粋]", "ans": "excerpt", "flag": 0}
+{"id": 725, "eng": "___ a book", "jpn": "本の[宣伝をする]", "ans": "publicize", "flag": 0}
+{"id": 726, "eng": "pay ___ fees", "jpn": "[授業料]を払う", "ans": "tuition", "flag": 1}
+{"id": 727, "eng": "in ___ with regulations", "jpn": "規則の[遵守]", "ans": "compliance", "flag": 0}
+{"id": 728, "eng": "___ the situation", "jpn": "状況を[はっきりさせる]", "ans": "clarify", "flag": 0}
+{"id": 729, "eng": "the ___ government", "jpn": "[市]政府", "ans": "municipal", "flag": 0}
+{"id": 730, "eng": "Tex and Masaya, 16 and 18, ___", "jpn": "テックスとマサヤ、[それぞれ]１６歳と１８歳", "ans": "respectively", "flag": 0}
+{"id": 731, "eng": "affordable yet ___", "jpn": "手ごろな価格だけれども[耐久性がある]", "ans": "durable", "flag": 0}
+{"id": 732, "eng": "The tower is the town's ___.", "jpn": "その塔は町の[名所]です。", "ans": "landmark", "flag": 0}
+{"id": 733, "eng": "Please include your ___.", "jpn": "[作品集]を添えて下さい", "ans": "portfolio", "flag": 0}
+{"id": 734, "eng": "___s of the prize", "jpn": "賞の[受賞者]", "ans": "recipient", "flag": 0}
+{"id": 735, "eng": "a ___ of an aircraft", "jpn": "航空機の[試作品]", "ans": "prototype", "flag": 0}
+{"id": 736, "eng": "damage in ___", "jpn": "[輸送]中のダメージ", "ans": "transit", "flag": 0}
+{"id": 737, "eng": "___ an account", "jpn": "アカウントを[認証する]", "ans": "verify", "flag": 1}
+{"id": 738, "eng": "experience at a ___ level", "jpn": "[管理職の]レベルでの経験", "ans": "managerial", "flag": 0}
+{"id": 739, "eng": "___ institute", "jpn": "[料理]学校", "ans": "culinary", "flag": 0}
+{"id": 740, "eng": "Formal ___ is required in the office.", "jpn": "フォーマルな[服装]がオフィスでは必要です。", "ans": "attire", "flag": 1}
+{"id": 741, "eng": "___ travel expenses", "jpn": "旅費を[払戻す]", "ans": "reimburse", "flag": 0}
+{"id": 742, "eng": "The staff was ___.", "jpn": "スタッフは[礼儀正しかった]。", "ans": "courteous", "flag": 0}
+{"id": 743, "eng": "a fully ___ apartment", "jpn": "完全に[家具が付いた]アパート", "ans": "furnished", "flag": 0}
+{"id": 744, "eng": "highly ___ about investments", "jpn": "投資について非常に[知識が豊富な]", "ans": "knowledgeable", "flag": 0}
+{"id": 745, "eng": "artists and ___", "jpn": "芸術家と[職人]", "ans": "craftspeople", "flag": 0}
+{"id": 746, "eng": "___ unnecessary files", "jpn": "不要なファイルを[削除する]", "ans": "delete", "flag": 0}
+{"id": 747, "eng": "___ markets", "jpn": "[新興]市場", "ans": "emerging", "flag": 0}
+{"id": 748, "eng": "___ in an aerobics class", "jpn": "エアロビクスのクラスに[入る]", "ans": "enroll", "flag": 0}
+{"id": 749, "eng": "___ in English", "jpn": "英語の[スキルの高さ]", "ans": "proficiency", "flag": 0}
+{"id": 750, "eng": "take the ___ route", "jpn": "[眺めが良い]ルートを行く", "ans": "scenic", "flag": 0}
+{"id": 751, "eng": "___ equipment", "jpn": "[最新式の]機器", "ans": "state-of-the-art", "flag": 0}
+{"id": 752, "eng": "French ___", "jpn": "フランス[料理]", "ans": "cuisine", "flag": 0}
+{"id": 753, "eng": "a critically ___ movie", "jpn": "評論家に[絶賛されている]映画", "ans": "acclaimed", "flag": 0}
+{"id": 754, "eng": "a ___ building inspector", "jpn": "[資格を持った]建物の検査官", "ans": "certified", "flag": 1}
+{"id": 755, "eng": "cold ___", "jpn": "風邪の[薬]", "ans": "medication", "flag": 0}
+{"id": 756, "eng": "give an ___", "jpn": "[概略]を説明する", "ans": "overview", "flag": 0}
+{"id": 757, "eng": "heat-___ glass", "jpn": "[耐]熱ガラス", "ans": "resistant", "flag": 0}
+{"id": 758, "eng": "give a ___ presentation", "jpn": "[素晴らしい]プレゼンを行う", "ans": "superb", "flag": 0}
+{"id": 759, "eng": "an ___ of books", "jpn": "[ズラリと]並んだ本", "ans": "array", "flag": 0}
+{"id": 760, "eng": "an ___ seminar", "jpn": "[役立つ]セミナー", "ans": "informative", "flag": 0}
+{"id": 761, "eng": "___ delivery", "jpn": "[全国]配送", "ans": "nationwide", "flag": 0}
+{"id": 762, "eng": "___ TOEIC books", "jpn": "[時代遅れの]TOEIC本", "ans": "outdated", "flag": 0}
+{"id": 763, "eng": "a ___s'meeting", "jpn": "[株主]総会", "ans": "shareholder", "flag": 0}
+{"id": 764, "eng": "a travel ___", "jpn": "旅行[券]", "ans": "voucher", "flag": 0}
+{"id": 765, "eng": "the restaurant ___ to the hotel", "jpn": "ホテルに[隣接した]レストラン", "ans": "adjacent", "flag": 1}
+{"id": 766, "eng": "in the previous ___", "jpn": "前回の[やり取り]で", "ans": "correspondence", "flag": 0}
+{"id": 767, "eng": "liquid ___", "jpn": "液体[洗剤]", "ans": "detergent", "flag": 0}
+{"id": 768, "eng": "for the ___ of the event", "jpn": "イベントの[期間中]", "ans": "duration", "flag": 0}
+{"id": 769, "eng": "The machine is still ___.", "jpn": "その機械はまだちゃんと[機能して]いる。", "ans": "functional", "flag": 0}
+{"id": 770, "eng": "___ training", "jpn": "[実地の]訓練", "ans": "hands-on", "flag": 0}
+{"id": 771, "eng": "a three-day ___ training seminar", "jpn": "３日間の[集中的な]研修", "ans": "intensive", "flag": 0}
+{"id": 772, "eng": "a ___ change", "jpn": "[間際になっての]変更", "ans": "last-minute", "flag": 0}
+{"id": 773, "eng": "I'm ___ to see you.", "jpn": "お会いできてとても[感激しています]。", "ans": "thrilled", "flag": 0}
+{"id": 784, "eng": "a ___ sunset", "jpn": "[壮観な]夕焼け", "ans": "spectacular", "flag": 0}
+{"id": 775, "eng": "a young ___", "jpn": "若き[起業家]", "ans": "entrepreneur", "flag": 1}
+{"id": 776, "eng": "an ___ course", "jpn": "[入門]コース", "ans": "introductory", "flag": 0}
+{"id": 777, "eng": "___ costs and maximize profits", "jpn": "コストを[最低限に抑え]、利益を最大化する", "ans": "minimize", "flag": 1}
+{"id": 778, "eng": "a ___ award", "jpn": "[権威のある]賞", "ans": "prestigious", "flag": 0}
+{"id": 779, "eng": "a ___ of a film", "jpn": "映画の[上映]", "ans": "screening", "flag": 0}
+{"id": 780, "eng": "___s such as gyms and swimming pools", "jpn": "ジムやプールといった[娯楽]施設", "ans": "amenity", "flag": 0}
+{"id": 781, "eng": "a ___ process", "jpn": "[長期にわたる]プロセス", "ans": "lengthy", "flag": 0}
+{"id": 782, "eng": "You will be ___d for the damage.", "jpn": "あなたは損害の[補償を受け]ます。", "ans": "compensate", "flag": 0}
+{"id": 783, "eng": "I have ___d my phone.", "jpn": "私は電話を[紛失した]。", "ans": "misplace", "flag": 0}
+{"id": 784, "eng": "a ___ feature", "jpn": "[注目すべき]特徴", "ans": "notable", "flag": 0}
+{"id": 785, "eng": "a ___ of a Japanese company", "jpn": "日本企業の[子会社]", "ans": "subsidiary", "flag": 0}
+{"id": 786, "eng": "___ works of art", "jpn": "[本物の]芸術作品", "ans": "authentic", "flag": 0}
+{"id": 787, "eng": "a ___ parking area", "jpn": "[指定の]駐車区域", "ans": "designated", "flag": 0}
+{"id": 788, "eng": "cause ___ to traffic", "jpn": "交通の[混乱]を引き起こす", "ans": "disruption", "flag": 0}
+{"id": 789, "eng": "___ items", "jpn": "[壊れやすい]物", "ans": "fragile", "flag": 0}
+{"id": 790, "eng": "an ___ project", "jpn": "[進行中の]プロジェクト", "ans": "ongoing", "flag": 0}
+{"id": 791, "eng": "publish a ___", "jpn": "[定期刊行物]を出版する", "ans": "periodical", "flag": 0}
+{"id": 792, "eng": "call a ___", "jpn": "[配管工]に電話する", "ans": "plumber", "flag": 0}
+{"id": 793, "eng": "___ a fine", "jpn": "罰金を[受ける]", "ans": "incur", "flag": 0}
+{"id": 794, "eng": "___ a department", "jpn": "部門を[監督する]", "ans": "oversee", "flag": 0}
+{"id": 795, "eng": "___ the data", "jpn": "データを[取り出す]", "ans": "retrieve", "flag": 0}
+{"id": 796, "eng": "attend a class ___", "jpn": "クラスの[同窓会]に参加する", "ans": "reunion", "flag": 0}
+{"id": 797, "eng": "a ___ testing process", "jpn": "[厳格な]検査工程", "ans": "rigorous", "flag": 1}
+{"id": 798, "eng": "___s for the project", "jpn": "プロジェクトの[仕様書]", "ans": "specification", "flag": 0}
+{"id": 799, "eng": "a ___ schedule", "jpn": "[仮の]スケジュール", "ans": "tentative", "flag": 0}
+{"id": 800, "eng": "an online ___", "jpn": "オンラインの[指導書]", "ans": "tutorial", "flag": 0}
+{"id": 801, "eng": "an ___ technician", "jpn": "技術者[見習い]", "ans": "apprentice", "flag": 0}
+{"id": 802, "eng": "make a ___", "jpn": "[入札]を行う", "ans": "bid", "flag": 0}
+{"id": 803, "eng": "___ old papers", "jpn": "古い書類を[捨てる]", "ans": "discard", "flag": 0}
+{"id": 804, "eng": "family ___s", "jpn": "家族での[お出かけ]", "ans": "outing", "flag": 0}
+{"id": 805, "eng": "an ___ positive response", "jpn": "[圧倒的に]好意的な反応", "ans": "overwhelmingly", "flag": 0}
+{"id": 806, "eng": "The ___ will go to charity.", "jpn": "[収益]は慈善活動に回されます。", "ans": "proceeds", "flag": 0}
+{"id": 807, "eng": "Please ___ from using mobile phones.", "jpn": "携帯電話のご利用は[お控えください]。", "ans": "refrain", "flag": 0}
+{"id": 808, "eng": "___ weather", "jpn": "[荒れた]天気", "ans": "inclement", "flag": 0}
+{"id": 809, "eng": "___ cooks", "jpn": "料理の[初心者]", "ans": "novice", "flag": 1}
+{"id": 810, "eng": "___ a credit card", "jpn": "クレジットカードを[使えるようにする]", "ans": "activate", "flag": 0}
+{"id": 811, "eng": "personal ___s", "jpn": "個人の[逸話]", "ans": "anecdote", "flag": 0}
+{"id": 812, "eng": "work in ___ with others", "jpn": "他人と[協力]して作業する", "ans": "collaboration", "flag": 0}
+{"id": 813, "eng": "___ an anniversary", "jpn": "記念日を[祝う]", "ans": "commemorate", "flag": 0}
+{"id": 814, "eng": "a ___ key", "jpn": "[複製の]鍵", "ans": "duplicate", "flag": 0}
+{"id": 815, "eng": "during the ___", "jpn": "[休憩時間]中に", "ans": "intermission", "flag": 0}
+{"id": 816, "eng": "recycle food waste to make ___", "jpn": "[肥料]を作るため食品廃棄物をリサイクルする", "ans": "fertilizer", "flag": 0}
+{"id": 817, "eng": "___ an article", "jpn": "記事を[校正する]", "ans": "proofread", "flag": 0}
+{"id": 818, "eng": "___ donations", "jpn": "寄付を[募る]", "ans": "solicit", "flag": 0}
+{"id": 819, "eng": "___ a new product", "jpn": "新商品を[披露する]", "ans": "unveil", "flag": 0}
+{"id": 820, "eng": "The rule is ___ to all employees.", "jpn": "その規則は全社員に[適用されます]。", "ans": "applicable", "flag": 0}
+{"id": 821, "eng": "a letter to ___ an employee", "jpn": "従業員を[褒める]ための手紙", "ans": "commend", "flag": 0}
+{"id": 822, "eng": "The dessert ___s the main dish.", "jpn": "そのデザートはメインディッシュに[合う]。", "ans": "complement", "flag": 0}
+{"id": 823, "eng": "offer ___s to customers", "jpn": "お客様に[動機付け]を提供する", "ans": "incentive", "flag": 1}
+{"id": 824, "eng": "___ exercise into everyday life", "jpn": "毎日の生活に運動を[取り入れる]", "ans": "incorporate", "flag": 0}
+{"id": 825, "eng": "Don't let your membership ___.", "jpn": "会員資格が[失効し]ないようにしてください。", "ans": "lapse", "flag": 0}
+{"id": 826, "eng": "a ___ village", "jpn": "[絵のように美しい]村", "ans": "picturesque", "flag": 0}
+{"id": 827, "eng": "___ customers", "jpn": "[見込み]客", "ans": "prospective", "flag": 0}
+{"id": 828, "eng": "___ a system", "jpn": "システムを[簡素化する]", "ans": "simplify", "flag": 0}
+{"id": 829, "eng": "___ last year's sales", "jpn": "去年の売り上げを[超える]", "ans": "surpass", "flag": 0}
+{"id": 830, "eng": "___ promotional materials", "jpn": "[余分な]販促物", "ans": "surplus", "flag": 1}
+{"id": 831, "eng": "___ high temperatures", "jpn": "高温に[耐える]", "ans": "withstand", "flag": 0}
+{"id": 832, "eng": "an ___ for energy efficiency", "jpn": "省エネの[提唱者]", "ans": "advocate", "flag": 0}
+{"id": 833, "eng": "an ___ writer", "jpn": "作家[志望]", "ans": "aspiring", "flag": 0}
+{"id": 834, "eng": "___ fruits and vegetables", "jpn": "[詰め合わせの]果物と野菜", "ans": "assorted", "flag": 0}
+{"id": 835, "eng": "excellent ___ as a scientist", "jpn": "科学者としての優れた[経歴]", "ans": "credentials", "flag": 0}
+{"id": 836, "eng": "___ mail", "jpn": "[社内]便", "ans": "interoffice", "flag": 1}
+{"id": 837, "eng": "a machine ___", "jpn": "機械の[故障]", "ans": "malfunction", "flag": 0}
+{"id": 838, "eng": "a ___ beneficial relationship", "jpn": "[互いに]利益になる関係", "ans": "mutually", "flag": 0}
+{"id": 839, "eng": "check the Web site ___", "jpn": "ウェブサイトを[定期的に]チェックする", "ans": "periodically", "flag": 0}
+{"id": 840, "eng": "___ law", "jpn": "[著作権]法", "ans": "copyright", "flag": 0}
+{"id": 841, "eng": "affordable and ___ dishes", "jpn": "手ごろな値段で[栄養のある]料理", "ans": "nutritious", "flag": 0}
+{"id": 842, "eng": "___ the view", "jpn": "視界を[遮る]", "ans": "obstruct", "flag": 0}
+{"id": 843, "eng": "___ opportunities for career advancement", "jpn": "キャリアアップのための[あり余る]機会", "ans": "abundant", "flag": 0}
+{"id": 844, "eng": "The weather in Auckland is quite ___.", "jpn": "オークランドの天気はとても[快適]です。", "ans": "agreeable", "flag": 0}
+{"id": 845, "eng": "reach a ___", "jpn": "[妥協点]に達する", "ans": "compromise", "flag": 0}
+{"id": 846, "eng": "___ improvement of quality", "jpn": "[絶え間ない]質の改善", "ans": "continuous", "flag": 0}
+{"id": 847, "eng": "a ___ position in the market", "jpn": "市場での[圧倒的な]ポジション", "ans": "dominant", "flag": 0}
+{"id": 848, "eng": "I was ___.", "jpn": "私は[疲れ切って]いた。", "ans": "exhausted", "flag": 0}
+{"id": 849, "eng": "___ competition", "jpn": "[激しい]競争", "ans": "fierce", "flag": 0}
+{"id": 850, "eng": "a ___ town", "jpn": "[栄えている]町", "ans": "prosperous", "flag": 0}
+{"id": 851, "eng": "the original ___", "jpn": "最初の[提示価格]", "ans": "quote", "flag": 0}
+{"id": 852, "eng": "What is the man ___ to do?", "jpn": "男性が[気乗りしない]ことは何ですか。", "ans": "reluctant", "flag": 0}
+{"id": 853, "eng": "a ___ for slow sales", "jpn": "不振の売り上げに対する[改善策]", "ans": "remedy", "flag": 0}
+{"id": 854, "eng": "be ___ responsible for the decision", "jpn": "結論に[一人で]責任を持つ", "ans": "solely", "flag": 0}
+{"id": 855, "eng": "Good communication is ___ in the workplace.", "jpn": "良好なコミュニケーションが職場では[不可欠]だ。", "ans": "vital", "flag": 0}
+{"id": 856, "eng": "___ a community", "jpn": "地域を[再活性化する]", "ans": "revitalize", "flag": 0}
+{"id": 857, "eng": "Construction will ___ in September.", "jpn": "建設作業は９月に[始まる]。", "ans": "commence", "flag": 1}
+{"id": 858, "eng": "___ times", "jpn": "[数えきれないほど]何度も", "ans": "countless", "flag": 0}
+{"id": 859, "eng": "___ a method", "jpn": "方法を[考案する]", "ans": "devise", "flag": 0}
+{"id": 860, "eng": "___ a plan", "jpn": "計画を[実行する]", "ans": "execute", "flag": 0}
+{"id": 861, "eng": "___ a good work environment", "jpn": "良い労働環境を[促進する]", "ans": "foster", "flag": 0}
+{"id": 862, "eng": "___ a negotiation", "jpn": "交渉を[開始する]", "ans": "initiate", "flag": 0}
+{"id": 863, "eng": "___ into the cause of the problem", "jpn": "問題の原因に対する[洞察]", "ans": "insight", "flag": 0}
+{"id": 864, "eng": "The advertisement was ___.", "jpn": "その広告は[誤解を招く恐れがあった]。", "ans": "misleading", "flag": 0}
+{"id": 865, "eng": "as a ___", "jpn": "[予防措置]として", "ans": "precaution", "flag": 1}
+{"id": 866, "eng": "___ glass", "jpn": "[透明の]ガラス", "ans": "transparent", "flag": 0}
+{"id": 867, "eng": "The event ___s with my birthday.", "jpn": "そのイベントは私の誕生日と[重なっている]。", "ans": "coincide", "flag": 0}
+{"id": 868, "eng": "The report was clear and ___.", "jpn": "そのレポートは分かりやすく[簡潔]だった。", "ans": "concise", "flag": 0}
+{"id": 869, "eng": "a ___ of engineers from Japan", "jpn": "日本からの技術者の[代表団]", "ans": "delegation", "flag": 0}
+{"id": 870, "eng": "receive a medical ___", "jpn": "医療の[診断]を受ける", "ans": "diagnosis", "flag": 1}
+{"id": 871, "eng": "___ a new policy", "jpn": "新しい規則を[施工する]", "ans": "enforce", "flag": 1}
+{"id": 872, "eng": "prove a ___", "jpn": "[仮説]を証明する", "ans": "hypothesis", "flag": 1}
+{"id": 873, "eng": "different from the ___", "jpn": "[前任者]と異なる", "ans": "predecessor", "flag": 0}
+{"id": 874, "eng": "___ displayed in a magazine", "jpn": "雑誌に[目立って]掲載されている", "ans": "prominently", "flag": 0}
+{"id": 875, "eng": "___ of a new method", "jpn": "新しい方法の[採用]", "ans": "adoption", "flag": 0}
+{"id": 876, "eng": "___ growth", "jpn": "成長を[加速させる]", "ans": "accelerate", "flag": 0}
+{"id": 877, "eng": "___ to a procedure", "jpn": "手順に[忠実に従う]", "ans": "adhere", "flag": 0}
+{"id": 878, "eng": "___ sufficient funds for a project", "jpn": "プロジェクトに十分な資金を[割り当てる]", "ans": "allocate", "flag": 0}
+{"id": 879, "eng": "an ___ of a house", "jpn": "家の[査定]", "ans": "appraisal", "flag": 0}
+{"id": 880, "eng": "___ a list of participants", "jpn": "参加者のリストを[取りまとめる]", "ans": "compile", "flag": 0}
+{"id": 881, "eng": "___ to international standards", "jpn": "国際基準に[合わせる]", "ans": "conform", "flag": 0}
+{"id": 882, "eng": "due to time ___s", "jpn": "時間に[制約]があるため", "ans": "constraint", "flag": 0}
+{"id": 883, "eng": "minimize ___s at work", "jpn": "職場で[注意の妨げになるもの]を最小限にする", "ans": "distraction", "flag": 0}
+{"id": 884, "eng": "___ a discussion", "jpn": "議論を[促進する]", "ans": "facilitate", "flag": 0}
+{"id": 885, "eng": "The Internet is ___ to our lives.", "jpn": "インターネットは我々の生活に[不可欠]だ。", "ans": "integral", "flag": 0}
+{"id": 886, "eng": "___ with colleagues", "jpn": "同僚と[交流する]", "ans": "interact", "flag": 0}
+{"id": 887, "eng": "My ___ paid off.", "jpn": "私の[粘り強さ]が実った。", "ans": "persistence", "flag": 0}
+{"id": 888, "eng": "a sales ___", "jpn": "売上[ノルマ]", "ans": "quota", "flag": 0}
+{"id": 889, "eng": "The parking lot was too ___.", "jpn": "駐車場は非常に[渋滞していた]。", "ans": "congested", "flag": 0}
+{"id": 890, "eng": "___ tax from payments", "jpn": "支払いから税金を[控除する]", "ans": "deduct", "flag": 0}
+{"id": 891, "eng": "___ an idea", "jpn": "考えを[積極的に受け入れる]", "ans": "embrace", "flag": 0}
+{"id": 892, "eng": "___ materials", "jpn": "[合成]素材", "ans": "synthetic", "flag": 0}
+{"id": 893, "eng": "___ a contract", "jpn": "契約を[終了させる]", "ans": "terminate", "flag": 0}
+{"id": 894, "eng": "___ an error", "jpn": "ミスを[見つける]", "ans": "detect", "flag": 0}
+{"id": 895, "eng": "___ answer questions", "jpn": "[根気よく]質問に答える", "ans": "patiently", "flag": 0}
+{"id": 896, "eng": "a male-female ___ of 1:5", "jpn": "１対５の男女[比率]", "ans": "ratio", "flag": 0}
+{"id": 897, "eng": "___ restrictions", "jpn": "[食事の]制限", "ans": "dietary", "flag": 0}
+{"id": 898, "eng": "___ delay payments", "jpn": "[意図的に]支払いを遅らせる", "ans": "intentionally", "flag": 0}
+{"id": 899, "eng": "give a ___ speech", "jpn": "[説得力のある]スピーチを行う", "ans": "persuasive", "flag": 0}
+{"id": 900, "eng": "the ___ years", "jpn": "[その後の]数年間", "ans": "subsequent", "flag": 0}
+{"id": 901, "eng": "a ___ written article", "jpn": "[深く考えて]書かれた記事", "ans": "thoughtfully", "flag": 0}
+{"id": 902, "eng": "an ___ version", "jpn": "[要約]版", "ans": "abridged", "flag": 0}
+{"id": 903, "eng": "encourage employees to ___", "jpn": "従業員に[相乗りする]ことを奨励する", "ans": "carpool", "flag": 0}
+{"id": 904, "eng": "The software is ___ with your computer.", "jpn": "そのソフトはあなたのコンピュータと[互換性があります]。", "ans": "compatible", "flag": 0}
+{"id": 905, "eng": "This product is ___d by celebrities.", "jpn": "この製品は有名人の[推薦を受けている]。", "ans": "endorse", "flag": 0}
+{"id": 906, "eng": "without ___ permission", "jpn": "[明確な]許可なしに", "ans": "explicit", "flag": 0}
+{"id": 907, "eng": "___ aware of the risks", "jpn": "リスクを[痛]感している", "ans": "keenly", "flag": 0}
+{"id": 908, "eng": "a commemorative ___", "jpn": "記念の[盾]", "ans": "plaque", "flag": 0}
+{"id": 909, "eng": "___ paint with water", "jpn": "塗料を水で[薄める]", "ans": "dilute", "flag": 0}
+{"id": 910, "eng": "Members are ___ from the fee.", "jpn": "会員は料金を[免除されます]。", "ans": "exempt", "flag": 0}
+{"id": 911, "eng": "flower ___s", "jpn": "[中心に置かれる]花飾り", "ans": "centerpiece", "flag": 1}
+{"id": 912, "eng": "It's an ___ on our part.", "jpn": "それはこちらの[見落とし]です。", "ans": "oversight", "flag": 0}
+{"id": 913, "eng": "We are ___ to work with you.", "jpn": "あなたとお仕事ができて[光栄です]。", "ans": "privileged", "flag": 1}
+{"id": 914, "eng": "prevent a problem from ___ring", "jpn": "問題が[再発する]ことを防ぐ", "ans": "recur", "flag": 1}
+{"id": 915, "eng": "___ about the possibility", "jpn": "可能性に[懐疑的な]", "ans": "skeptical", "flag": 0}
+{"id": 916, "eng": "___ energy", "jpn": "[環境に優しい]エネルギー", "ans": "sustainable", "flag": 0}
+{"id": 917, "eng": "ancient Egyptian ___s", "jpn": "古代エジプトの[工芸品]", "ans": "artifact", "flag": 0}
+{"id": 918, "eng": "___ address", "jpn": "[基調]演説", "ans": "keynote", "flag": 0}
+{"id": 919, "eng": "The room offers a ___ view.", "jpn": "その部屋は[息をのむほどの]眺めを提供しています。", "ans": "breathtaking", "flag": 0}
+{"id": 920, "eng": "work in a ___", "jpn": "[個別の作業スペース]で作業する", "ans": "cubicle", "flag": 0}
+{"id": 921, "eng": "a power ___", "jpn": "電力の[供給停止]", "ans": "outage", "flag": 0}
+{"id": 922, "eng": "___ food items", "jpn": "[傷みやすい]食品", "ans": "perishable", "flag": 0}
+{"id": 923, "eng": "an ___ reader", "jpn": "[熱心な]読者", "ans": "avid", "flag": 0}
+{"id": 924, "eng": "take a ___", "jpn": "[回り道]をする", "ans": "detour", "flag": 0}
+{"id": 925, "eng": "___ a process", "jpn": "処理を[早める]", "ans": "expedite", "flag": 0}
+{"id": 926, "eng": "in the ___ of the station", "jpn": "駅の[近辺]", "ans": "vicinity", "flag": 1}
+{"id": 927, "eng": "___ companies", "jpn": "[提携している]会社", "ans": "affiliated", "flag": 0}
+{"id": 928, "eng": "a ___ TOEIC vocabulary book", "jpn": "TOEIC語彙の[決定版の]本", "ans": "definitive", "flag": 0}
+{"id": 929, "eng": "___ a building", "jpn": "建物を[解体する]", "ans": "demolish", "flag": 1}
+{"id": 930, "eng": "a ___ plan", "jpn": "[実現可能な]計画", "ans": "feasible", "flag": 0}
+{"id": 931, "eng": "the ___ issue of a magazine", "jpn": "雑誌の[最初の]号", "ans": "inaugural", "flag": 1}
+{"id": 932, "eng": "pay in monthly ___s", "jpn": "月々の[分割払い]", "ans": "installment", "flag": 0}
+{"id": 933, "eng": "Gift cards are ___ for merchandise only.", "jpn": "ギフトカードは商品のみと[交換可能]です。", "ans": "redeemable", "flag": 0}
+{"id": 934, "eng": "___ the process", "jpn": "プロセスを[簡略化する]", "ans": "streamline", "flag": 0}
+{"id": 935, "eng": "sound ___ between rooms", "jpn": "部屋と部屋の間の[防]音", "ans": "insulation", "flag": 0}
+{"id": 936, "eng": "Everything arrived ___.", "jpn": "全てが[無傷で]届いた。", "ans": "intact", "flag": 1}
+{"id": 937, "eng": "the ___ rate of hotels", "jpn": "ホテルの[占有]率", "ans": "occupancy", "flag": 0}
+{"id": 938, "eng": "staff ___", "jpn": "スタッフの[離職率]", "ans": "turnover", "flag": 0}
+{"id": 939, "eng": "___ approval", "jpn": "[満場一致の]承認", "ans": "unanimous", "flag": 0}
+{"id": 940, "eng": "Road conditions will ___.", "jpn": "路面の状況が[悪化する]だろう。", "ans": "deteriorate", "flag": 0}
+{"id": 941, "eng": "The table looks ___.", "jpn": "そのテーブルは[頑丈に]見える。", "ans": "sturdy", "flag": 0}
+{"id": 942, "eng": "___ health effects", "jpn": "健康面への[良くない]影響", "ans": "adverse", "flag": 1}
+{"id": 943, "eng": "the ___ of this coupon", "jpn": "このクーポンクーポンの[持参人]", "ans": "bearer", "flag": 0}
+{"id": 944, "eng": "rising for an ___ eight months", "jpn": "[前例のない]８ヶ月に渡っての上昇", "ans": "unprecedented", "flag": 0}
+{"id": 945, "eng": "___ gardens", "jpn": "[植物]園", "ans": "botanical", "flag": 0}
+{"id": 946, "eng": "Salary will be ___ with experience.", "jpn": "給与は経験に[比例]します。", "ans": "commensurate", "flag": 1}
+{"id": 947, "eng": "for the third ___ year", "jpn": "３年[連続]で", "ans": "consecutive", "flag": 0}
+{"id": 948, "eng": "after long ___", "jpn": "[熟慮]の末", "ans": "deliberation", "flag": 1}
+{"id": 949, "eng": "behave ___", "jpn": "[分別を持って]振る舞う", "ans": "discreetly", "flag": 0}
+{"id": 950, "eng": "The position ___s a lot of travel.", "jpn": "そのポジションは頻繁な出張が[求められる]。", "ans": "entail", "flag": 0}
+{"id": 951, "eng": "temperature ___s", "jpn": "気温の[変動]", "ans": "fluctuation", "flag": 0}
+{"id": 952, "eng": "one of the ___ law firms", "jpn": "[最高の]法律事務所の一つ", "ans": "foremost", "flag": 0}
+{"id": 953, "eng": "It is ___ that we act now.", "jpn": "今行動することが[必要]だ。", "ans": "imperative", "flag": 0}
+{"id": 954, "eng": "attend a ___ meeting", "jpn": "参加[必須の]会議に出席する", "ans": "mandatory", "flag": 0}
+{"id": 955, "eng": "a ___ created artwork", "jpn": "[細心の注意を払って]作られた芸術作品", "ans": "meticulously", "flag": 0}
+{"id": 956, "eng": "a community ___ program", "jpn": "地域の[支援]プログラム", "ans": "outreach", "flag": 0}
+{"id": 957, "eng": "during my two-year ___", "jpn": "私の２年間の[在職期間]中", "ans": "tenure", "flag": 0}
+{"id": 958, "eng": "a ___ person", "jpn": "[多才な]人", "ans": "versatile", "flag": 0}
+{"id": 959, "eng": "___ traffic congestion", "jpn": "交通渋滞を[緩和する]", "ans": "alleviate", "flag": 0}
+{"id": 960, "eng": "an ___ employee", "jpn": "[模範的な]社員", "ans": "exemplary", "flag": 0}
+{"id": 961, "eng": "a ___ dinner", "jpn": "[祝賀]ディナー", "ans": "gala", "flag": 0}
+{"id": 962, "eng": "restore a ___", "jpn": "[壁画]を修復する", "ans": "mural", "flag": 0}
+{"id": 963, "eng": "the ___ of a clothing shop", "jpn": "洋品店の[オーナー]", "ans": "proprietor", "flag": 0}
+{"id": 964, "eng": "a ___ market", "jpn": "[停滞した]市場", "ans": "stagnant", "flag": 0}
+{"id": 965, "eng": "___ quality standards", "jpn": "[厳しい]品質基準", "ans": "stringent", "flag": 0}
+{"id": 966, "eng": "___s from customers", "jpn": "お客様からの[推薦の声]", "ans": "testimonial", "flag": 0}
+{"id": 967, "eng": "the ___ for the concert", "jpn": "コンサートへの[来場者数]", "ans": "turnout", "flag": 0}
+{"id": 968, "eng": "We will ___ the shipping charge.", "jpn": "送料は請求[しません]。", "ans": "waive", "flag": 0}
+{"id": 969, "eng": "install a new ___", "jpn": "新しい[蛇口]を取り付ける", "ans": "faucet", "flag": 0}
+{"id": 970, "eng": "make ___s to the contract", "jpn": "契約書に[修正]を加える", "ans": "amendment", "flag": 0}
+{"id": 971, "eng": "an ___ donor", "jpn": "[匿名の]寄贈者", "ans": "anonymous", "flag": 0}
+{"id": 972, "eng": "report potential ___", "jpn": "[詐欺]の可能性を報告する", "ans": "fraud", "flag": 0}
+{"id": 973, "eng": "Tex was held ___ for the damage.", "jpn": "テックスはその損害に関して[法的責任がある]とされた。", "ans": "liable", "flag": 0}
+{"id": 974, "eng": "Be ___ of other people's feelings.", "jpn": "他人の気持ちに[配慮し]なさい。", "ans": "considerate", "flag": 0}
+{"id": 975, "eng": "___ two divisions into one", "jpn": "２つの部門を１つに[統合する]", "ans": "consolidate", "flag": 0}
+{"id": 976, "eng": "a ___ campaign", "jpn": "[精力的な]キャンペーン", "ans": "vigorous", "flag": 0}
+{"id": 977, "eng": "plan a company ___", "jpn": "社員[研修旅行]を計画する", "ans": "retreat", "flag": 1}
+{"id": 978, "eng": "a ___ at a resort", "jpn": "リゾートの[管理人]", "ans": "custodian", "flag": 1}
+{"id": 979, "eng": "___ a relationship", "jpn": "関係を[築く]", "ans": "forge", "flag": 0}
+{"id": 980, "eng": "the ___ change in leadership", "jpn": "[間近に迫った]トップの交代", "ans": "impending", "flag": 0}
+{"id": 981, "eng": "___ travel expenses", "jpn": "出張旅費を[項目分けする]", "ans": "itemize", "flag": 0}
+{"id": 982, "eng": "a ___ between management and employees", "jpn": "契約陣と従業員の間の[連絡係]", "ans": "liaison", "flag": 1}
+{"id": 983, "eng": "The guest found the noise ___.", "jpn": "その宿泊客は騒音を[不快]に感じた。", "ans": "objectionable", "flag": 0}
+{"id": 984, "eng": "___ a driveway", "jpn": "私道を[再舗装する]", "ans": "repave", "flag": 0}
+{"id": 985, "eng": "address ___s", "jpn": "[欠点]に対応する", "ans": "shortcoming", "flag": 0}
+{"id": 986, "eng": "a financially ___ option", "jpn": "財政的に[実行可能な]選択肢", "ans": "viable", "flag": 0}
+{"id": 987, "eng": "sports ___ such as balls and photos", "jpn": "ボールや写真などのスポーツの[記念品]", "ans": "memorabilia", "flag": 0}
+{"id": 988, "eng": "___ the budget", "jpn": "予算を[使い果たす]", "ans": "deplete", "flag": 0}
+{"id": 989, "eng": "The company is in ___.", "jpn": "会社は[危機]にある。", "ans": "jeopardy", "flag": 0}
+{"id": 990, "eng": "for a ___ fee", "jpn": "[ほんのわずかな]費用で", "ans": "nominal", "flag": 0}
+{"id": 991, "eng": "___ from the original plan", "jpn": "元々の計画から[それる]", "ans": "deviate", "flag": 0}
+{"id": 992, "eng": "___ the deposit", "jpn": "保証金を[剥奪される]", "ans": "forfeit", "flag": 0}
+{"id": 993, "eng": "___ sales", "jpn": "販売を[強化する]", "ans": "bolster", "flag": 0}
+{"id": 994, "eng": "achieve ___ performance", "jpn": "[最高の]パフォーマンスを達成する", "ans": "optimal", "flag": 0}
+{"id": 995, "eng": "a ___ of groceries", "jpn": "食料品の[販売業者]", "ans": "purveyor", "flag": 0}
+{"id": 996, "eng": "sell ___ tickets", "jpn": "[福引]のチケットを販売する", "ans": "raffle", "flag": 0}
+{"id": 997, "eng": "poor ___", "jpn": "[風通し]の悪さ", "ans": "ventilation", "flag": 0}
+{"id": 998, "eng": "through your ___ efforts", "jpn": "皆さんの[不断の]努力で", "ans": "unwavering", "flag": 0}
+{"id": 999, "eng": "Your vocabulary has grown ___.", "jpn": "皆さんの語彙は[加速度的に]増えました。", "ans": "exponentially", "flag": 0}
