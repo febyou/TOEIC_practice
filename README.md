@@ -6,7 +6,7 @@ Windows向けTOEIC単語練習システム
 
 # How to USE(使い方)
 1. ファイルをダウンロードする．
-2. “main_gui.exe”をクリックして起動することができる．(path: dist/main_gui/main_gui.exe)
+2. “main_gui.exe”をクリックして起動することができる．(path: TOEIC_word_practice/dist/main_gui/main_gui.exe)
 
 * ランダム学習モード：
 
