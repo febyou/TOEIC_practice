@@ -1,4 +1,4 @@
-# TOEIC_word_practice
+# TOEIC Word Practice System
 Windows向けTOEIC単語練習システム
 
 # DEMO MOVIE
