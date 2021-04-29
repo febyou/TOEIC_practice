@@ -1,5 +1,5 @@
-# TOEIC Word Practice System
-Windows向けTOEIC単語練習システム
+# TOEIC Word Practice Tool
+Windows向けTOEIC単語練習ツール
 
 # DEMO MOVIE
 ![DEMO](https://user-images.githubusercontent.com/66713187/116481226-c3ab4980-a8bd-11eb-918d-e7012b3ee1a9.gif)
