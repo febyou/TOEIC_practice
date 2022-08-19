@@ -1,10 +1,10 @@
 # TOEIC Word Practice Tool
 Windows向けTOEIC単語練習ツール
 
-# DEMO MOVIE
+# DEMO MOVIE（デモ動画）
 ![DEMO](https://user-images.githubusercontent.com/66713187/116481226-c3ab4980-a8bd-11eb-918d-e7012b3ee1a9.gif)
 
-# How to USE(使い方)
+# How to USE（使い方）
 1. ファイルをダウンロードする．
 2. “main_gui.exe”をクリックして起動することができる．(path: TOEIC_word_practice/dist/main_gui/main_gui.exe)
 
