@@ -7,7 +7,7 @@ Windows向けTOEIC単語練習ツール
 # How to USE（使い方）
 1. ファイルをダウンロードする．  
 2. “main_gui.exe”をクリックして起動することができる．  
-(path: TOEIC_word_practice/dist/main_gui/main_gui.exe)  
+(PATH：TOEIC_word_practice/dist/main_gui/main_gui.exe)  
 * ランダム学習モード：  
 　問題データ1000問の中からランダムで問題を提示し，解くことができる．  
 　間違えた問題は復習用の問題リストに追加され，後述する復習モードで再度解くことができる．  
